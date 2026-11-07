@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:52:26.847853Z",
+  "updated_at": "2026-11-07T21:44:29.627987Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T21:17:08Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T19:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
       "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
@@ -203,6 +219,14 @@
       "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
       "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
       "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "source": "Wired",
+      "published": "2026-11-07T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
+      "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
+      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
       "source": "Wired",
       "published": "2026-11-07T11:00:00Z",
       "category": "Big Tech"
