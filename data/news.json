@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:57:59.790455Z",
+  "updated_at": "2026-11-07T15:46:03.617087Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,38 @@
   ],
   "items": [
     {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Al",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "published": "2026-11-07T15:00:00Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Good riddance, Cybertruck!",
+      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humi",
+      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "source": "The Verge",
+      "published": "2026-11-07T14:40:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Zelda is back and better than ever",
+      "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepag",
+      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+      "source": "The Verge",
+      "published": "2026-11-07T13:49:01Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "source": "Wired",
+      "published": "2026-11-07T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursd",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
@@ -48,7 +80,7 @@
       "category": "AI"
     },
     {
-      "title": "The migration that transformed Africa's languages, genes, and cultures",
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
       "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
       "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
       "source": "Ars Technica",
