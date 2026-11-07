@@ -10,3 +10,5 @@
 
 /* Trilingual author affiliation */
 .hero-author-work{display:flex;flex-direction:column;gap:12px}.author-lang{font-size:11px;line-height:1.75;color:#bdd1db}.author-lang+.author-lang{border-top:1px solid #294852;padding-top:11px}.author-lang-label{display:block;font-size:9px;font-weight:800;letter-spacing:1.3px;color:#54ead0;margin-bottom:3px}.hero-author{width:300px}.hero-author-name{font-size:18px}
+
+.author-language-line{display:flex;align-items:center;gap:9px;flex-wrap:wrap;color:#bce8e3;font-size:11px;font-weight:700;letter-spacing:.35px;margin:0 0 15px}.author-language-line span{color:#567b7b}.hero-author-work{display:block}.hero-author{width:300px}
