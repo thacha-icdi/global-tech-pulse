@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T11:44:08.753373Z",
+  "updated_at": "2026-11-07T12:57:59.790455Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,38 @@
   ],
   "items": [
     {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursd",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "published": "2026-11-07T12:30:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "The migration that transformed Africa's languages, genes, and cultures",
+      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "source": "Ars Technica",
+      "published": "2026-11-07T12:15:55Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "url": "https://www.wired.com/gallery/best-wifi-routers/",
+      "source": "Wired",
+      "published": "2026-11-07T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
+      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
+      "source": "Wired",
+      "published": "2026-11-07T11:45:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
       "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
       "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
@@ -54,6 +86,14 @@
       "source": "Wired",
       "published": "2026-11-07T11:15:00Z",
       "category": "Chips"
+    },
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "source": "Ars Technica",
+      "published": "2026-11-07T11:00:34Z",
+      "category": "Big Tech"
     },
     {
       "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
