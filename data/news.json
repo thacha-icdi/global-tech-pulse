@@ -1,15 +1,1187 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-11-07T11:44:08.753373Z",
   "sources": [
-    {"name":"TechCrunch","url":"https://techcrunch.com/feed/"},
-    {"name":"The Verge","url":"https://www.theverge.com/rss/index.xml"},
-    {"name":"Ars Technica","url":"https://feeds.arstechnica.com/arstechnica/index"},
-    {"name":"MIT Technology Review","url":"https://www.technologyreview.com/feed/"},
-    {"name":"Wired","url":"https://www.wired.com/feed/rss"},
-    {"name":"VentureBeat","url":"https://venturebeat.com/feed/"},
-    {"name":"Google Blog","url":"https://blog.google/rss/"},
-    {"name":"Microsoft Blog","url":"https://blogs.microsoft.com/feed/"},
-    {"name":"NVIDIA Blog","url":"https://blogs.nvidia.com/feed/"}
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss"
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://venturebeat.com/feed/"
+    },
+    {
+      "name": "Google Blog",
+      "url": "https://blog.google/rss/"
+    },
+    {
+      "name": "Microsoft Blog",
+      "url": "https://blogs.microsoft.com/feed/"
+    },
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/feed/"
+    }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "source": "Wired",
+      "published": "2026-11-07T11:37:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "This Totally Free App Can Free Up Space on Your Mac",
+      "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
+      "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+      "source": "Wired",
+      "published": "2026-11-07T11:15:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
+      "summary": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
+      "url": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
+      "source": "Wired",
+      "published": "2026-11-07T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "source": "Wired",
+      "published": "2026-11-07T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "source": "Wired",
+      "published": "2026-11-07T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The 19 Best Early Black Friday Deals 2026",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can already get right now.",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
+      "source": "Wired",
+      "published": "2026-11-07T10:16:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The American Dream Wasn’t Built for Climate Change",
+      "summary": "Owning a home is billed as a way to build wealth, but amid climate-related disasters, for many, it's beginning to feel like a trap.",
+      "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+      "source": "Wired",
+      "published": "2026-11-07T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T05:01:54Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T04:16:43Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T01:40:28Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "published": "2026-11-06T23:46:18Z",
+      "category": "AI"
+    },
+    {
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T23:09:45Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence ",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge",
+      "published": "2026-11-06T23:00:44Z",
+      "category": "Chips"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T22:53:46Z",
+      "category": "AI"
+    },
+    {
+      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+      "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of i",
+      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "source": "The Verge",
+      "published": "2026-11-06T22:45:43Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T22:41:37Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
+      "summary": "Tesla’s biggest failure is the second massive EV to get the axe within the last year, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+      "url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+      "source": "Wired",
+      "published": "2026-11-06T22:31:15Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T22:08:47Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barn",
+      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-06T21:50:32Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Duo apps are coming, says Apple",
+      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T21:38:05Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "How Stephen Miller Schemed His Way to the Top",
+      "summary": "The architect of the Trump administration’s brutal crackdowns on immigration and dissent was already known as “the prime minister.” Now he’ll work as the chief of staff.",
+      "url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
+      "source": "Wired",
+      "published": "2026-11-06T21:10:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T20:56:41Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Earth's churning mantle may have created the Great Unconformity",
+      "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T20:24:20Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+      "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T20:05:30Z",
+      "category": "Chips"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge",
+      "published": "2026-11-06T20:02:22Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+      "summary": "Developer: “I can’t be part of the Fox world.”",
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T19:50:18Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly ",
+      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-06T19:47:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T19:12:28Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026",
+      "summary": "The new Essential and certain colors of the original Classic are at their lowest prices of the year.",
+      "url": "https://www.wired.com/story/rocco-black-friday-sale-2026/",
+      "source": "Wired",
+      "published": "2026-11-06T18:54:21Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
+      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/",
+      "source": "Wired",
+      "published": "2026-11-06T18:51:27Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:38Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T18:44:20Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "source": "Wired",
+      "published": "2026-11-06T18:43:43Z",
+      "category": "AI"
+    },
+    {
+      "title": "Lame-duck Congress might actually do something: speed up energy projects",
+      "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluti",
+      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+      "source": "The Verge",
+      "published": "2026-11-06T18:42:30Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The folks behind John Wick are back with Karōshi trailer",
+      "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T18:30:19Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "You know the launch market is tough when satellite companies start building rockets",
+      "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T18:20:47Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with di",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge",
+      "published": "2026-11-06T18:10:10Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Amazon is now making a Melania Trump TV series",
+      "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals ",
+      "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+      "source": "The Verge",
+      "published": "2026-11-06T17:56:58Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T17:43:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Just about anyone can rent access to White House IP addresses",
+      "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms L",
+      "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "source": "The Verge",
+      "published": "2026-11-06T17:40:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center de",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T17:23:52Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
+      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T17:06:32Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T16:50:01Z",
+      "category": "Startups"
+    },
+    {
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T16:19:12Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Fox completes its $22B acquisition of Roku",
+      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T16:05:36Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-06T16:00:35Z",
+      "category": "Chips"
+    },
+    {
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "source": "Wired",
+      "published": "2026-11-06T16:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T15:54:47Z",
+      "category": "AI"
+    },
+    {
+      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
+      "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
+      "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T15:28:07Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+      "summary": "The decision to halt production of Tesla’s polarizing polygonal pickup marks the end of an error.",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "source": "Wired",
+      "published": "2026-11-06T14:20:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T14:13:32Z",
+      "category": "Chips"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T14:10:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
+      "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+      "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T13:50:20Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
+      "summary": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T13:33:20Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post abo",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-06T13:10:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T13:02:16Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
+      "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
+      "url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
+      "source": "Wired",
+      "published": "2026-11-06T12:05:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Horny Grandmas Are Having a Moment",
+      "summary": "Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.",
+      "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment/",
+      "source": "Wired",
+      "published": "2026-11-06T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T11:50:10Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Kitchen Composters I Recommend After 2 Years of Testing (2026)",
+      "summary": "After enduring years of smells, strange noises, and waste “tea,” I’ve found the composters and food recyclers I’d actually recommend.",
+      "url": "https://www.wired.com/story/home-composters-buying-guide/",
+      "source": "Wired",
+      "published": "2026-11-06T11:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
+      "summary": "These monthly deliveries get kids reading, coding, and cooking while encouraging them to learn about science and the world.",
+      "url": "https://www.wired.com/gallery/best-subscription-boxes-for-kids/",
+      "source": "Wired",
+      "published": "2026-11-06T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
+      "summary": "Air conditioners can now follow you from room to room to cut power draw. Saving the planet, however, won’t come from a smarter breeze.",
+      "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
+      "source": "Wired",
+      "published": "2026-11-06T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)",
+      "summary": "The Greenlight Family Hub displays your family calendars, manages your kid’s chores, and doubles as a photo frame. It’s also already discounted ahead of Black Friday.",
+      "url": "https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/",
+      "source": "Wired",
+      "published": "2026-11-06T10:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, ",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-06T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T07:18:44Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T06:28:32Z",
+      "category": "AI"
+    },
+    {
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "summary": "\"This is going to be a game-changer.\"",
+      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T00:17:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T00:07:18Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T00:01:38Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "source": "Ars Technica",
+      "published": "2026-11-05T23:09:36Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "6 Best VPN Services (2026), Tested and Reviewed",
+      "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
+      "url": "https://www.wired.com/gallery/best-vpn/",
+      "source": "Wired",
+      "published": "2026-11-05T23:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "source": "Ars Technica",
+      "published": "2026-11-05T22:49:03Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T22:40:55Z",
+      "category": "AI"
+    },
+    {
+      "title": "The 7 Best Early Black Friday TV Deals (2026)",
+      "summary": "I found discounts of up to half off some of the top WIRED-tested TVs.",
+      "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/",
+      "source": "Wired",
+      "published": "2026-11-05T22:28:43Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
+      "source": "Wired",
+      "published": "2026-11-05T22:18:42Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "source": "Wired",
+      "published": "2026-11-05T21:37:18Z",
+      "category": "AI"
+    },
+    {
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put mor",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-05T20:00:41Z",
+      "category": "Chips"
+    },
+    {
+      "title": "13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)",
+      "summary": "Get a head start on holiday shopping with discounts on WIRED-tested headphones, laptops, and TVs.",
+      "url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
+      "source": "Wired",
+      "published": "2026-11-05T20:00:29Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+      "summary": "Create longer AI videos in Google Vids with the new Omni 1.2 Flash model. Generate 15-second clips and consistent scenes for free. Try it now.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+      "source": "Google Blog",
+      "published": "2026-11-05T20:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
+      "summary": "More than 80 percent of congressional candidates backed by the pro-science PAC 314 Action won, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
+      "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
+      "source": "Wired",
+      "published": "2026-11-05T19:55:24Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that ",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-05T17:00:35Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google Blog",
+      "published": "2026-11-05T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "summary": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "source": "Google Blog",
+      "published": "2026-11-05T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Transform a quick drawing into a live app with Gemini.",
+      "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+      "source": "Google Blog",
+      "published": "2026-11-05T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "source": "Wired",
+      "published": "2026-11-05T16:26:57Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who special",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-05T16:00:05Z",
+      "category": "Chips"
+    },
+    {
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory ",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-05T16:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "source": "Wired",
+      "published": "2026-11-05T15:38:07Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, wi",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-05T14:00:34Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "source": "Wired",
+      "published": "2026-11-05T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "source": "Wired",
+      "published": "2026-11-05T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Check out our free livestream during National Veterans Small Business Week.",
+      "summary": "Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-05T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center ",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-05T13:10:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "source": "Wired",
+      "published": "2026-11-05T13:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+      "summary": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
+      "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+      "source": "Wired",
+      "published": "2026-11-05T13:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "source": "Wired",
+      "published": "2026-11-05T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+      "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "source": "Wired",
+      "published": "2026-11-05T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "source": "Wired",
+      "published": "2026-11-05T11:45:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs A",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-05T10:00:00Z",
+      "category": "Policy"
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gin",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T18:50:55Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio R",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T18:21:40Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Watch Henry Cavill build a video game on his Googlebook",
+      "summary": "Henry Cavill built a video game on his Googlebook to help support men’s health.",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
+      "source": "Google Blog",
+      "published": "2026-11-04T18:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramat",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T17:08:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "We're sharing our framework for building safer and more helpful AI for health.",
+      "summary": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+      "source": "Google Blog",
+      "published": "2026-11-04T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry studen",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T13:10:00Z",
+      "category": "Startups"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to d",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-04T13:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Take a closer look at art with the Courtauld",
+      "summary": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+      "source": "Google Blog",
+      "published": "2026-11-04T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps bac",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-03T16:00:45Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Designing responsible AI for learning",
+      "summary": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-03T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New research shows how Guided Learning supports students",
+      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+      "source": "Google Blog",
+      "published": "2026-11-03T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "source": "Google Blog",
+      "published": "2026-11-03T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Working collaboratively to fight scams in Asia Pacific",
+      "summary": "Google combines built-in protections with local partnerships and education to tackle scams in APAC.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+      "source": "Google Blog",
+      "published": "2026-11-03T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AI in the learning era",
+      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-03T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Expanding AI educator training to new countries",
+      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-03T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powe",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-03T13:10:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digi",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-03T07:00:12Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Advancing research and partnering with universities in Singapore",
+      "summary": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+      "source": "Google Blog",
+      "published": "2026-11-03T04:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-02T17:45:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google Messages, Phone by Google, and Google Contacts get new, updated icons.",
+      "summary": "Google is updating the icons for Messages, Phone, and Contacts with a sleeker, cohesive design. See the new look for your home screen.",
+      "url": "https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/",
+      "source": "Google Blog",
+      "published": "2026-11-02T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google Fitbit Edge: On shelves now",
+      "summary": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "source": "Google Blog",
+      "published": "2026-10-30T20:15:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "summary": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "source": "Google Blog",
+      "published": "2026-10-30T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "See who has access to your Gmail inbox in 2 minutes.",
+      "summary": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+      "source": "Google Blog",
+      "published": "2026-10-30T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it i",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-30T15:00:10Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s a",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-29T13:00:16Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "summary": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard.",
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+      "source": "Microsoft Blog",
+      "published": "2026-10-28T16:51:35Z",
+      "category": "AI"
+    },
+    {
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an N",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-28T15:00:46Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The platform approach to becoming Frontier",
+      "summary": "Last year at Ignite, we introduced the concept of Frontier Transformation and how it is different from any technology-led pursuit, because it requires us to focus on business outcomes first. It starts with a simple idea: technology was invented to serve humani",
+      "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+      "source": "Microsoft Blog",
+      "published": "2026-10-27T16:01:38Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. ",
+      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-27T15:00:20Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Introducing a Voluntary Exit Offer",
+      "summary": "Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees today. Today, we’re introducing a new Voluntary Exit Offer (VEO) to eligible employees within participating organizations. This offer gives ",
+      "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
+      "source": "Microsoft Blog",
+      "published": "2026-10-26T15:33:56Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Je",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-23T02:00:13Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timel",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-22T15:00:02Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-22T13:00:20Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding",
+      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-22T05:00:56Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five o",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-22T05:00:27Z",
+      "category": "Chips"
+    },
+    {
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the bi",
+      "url": "https://blogs.nvidia.com/blog/dsx-power/",
+      "source": "NVIDIA Blog",
+      "published": "2026-10-22T05:00:25Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "summary": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. Th",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "source": "Microsoft Blog",
+      "published": "2026-10-20T08:20:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Securing the agentic insider",
+      "summary": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global ",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "source": "Microsoft Blog",
+      "published": "2026-10-19T13:00:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "summary": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia ",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "source": "Microsoft Blog",
+      "published": "2026-10-12T13:01:29Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Microsoft 365 and LinkedIn leadership update",
+      "summary": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning. SATYA NADELLA MESSAGE After nearly 18 years at LinkedIn and Microso",
+      "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+      "source": "Microsoft Blog",
+      "published": "2026-10-01T15:03:27Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New Microsoft data innovations unlock what only your business knows",
+      "summary": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, t",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "source": "Microsoft Blog",
+      "published": "2026-09-29T06:30:04Z",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the ",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "source": "Microsoft Blog",
+      "published": "2026-09-25T12:03:50Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "What we’ve learned from Microsoft’s own AI transformation",
+      "summary": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe ",
+      "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+      "source": "Microsoft Blog",
+      "published": "2026-09-17T14:00:05Z",
+      "category": "Big Tech"
+    }
+  ]
 }
