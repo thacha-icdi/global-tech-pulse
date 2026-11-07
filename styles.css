@@ -15,3 +15,6 @@
 
 /* Compact single-line language selector above author credit */
 .author-switch{display:flex;align-items:center;gap:9px;margin-bottom:17px;font-size:11px;color:#668c90}.author-lang-btn{background:transparent;border:0;padding:4px 2px;color:#9ab6c1;font-weight:800;font-size:11px;letter-spacing:.6px;cursor:pointer}.author-lang-btn.active,.author-lang-btn:hover{color:#54ead0}.hero-author-work{display:block}.hero-author-name{overflow-wrap:anywhere}
+
+/* ICDI logo at right of hero actions */
+.hero-actions{display:flex;align-items:center;gap:20px}.hero-icdi-logo{display:flex;align-items:center;justify-content:center;margin-left:auto;padding:8px 11px;background:#192a49a6;border:1px solid #52717c66;border-radius:9px;min-width:200px}.hero-icdi-logo img{display:block;width:184px;height:auto;image-rendering:auto}.hero-icdi-logo:hover{border-color:#54ead0}@media(max-width:1250px){.hero-icdi-logo{margin-left:0}}@media(max-width:700px){.hero-icdi-logo{min-width:0;width:max-content;max-width:100%}}
