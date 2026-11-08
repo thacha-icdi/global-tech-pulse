@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T12:58:32.344116Z",
+  "updated_at": "2026-11-08T15:44:41.800537Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that A",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "published": "2026-11-08T15:00:30Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for T",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "source": "The Verge",
+      "published": "2026-11-08T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "source": "Ars Technica",
+      "published": "2026-11-08T12:15:31Z",
+      "category": "Big Tech"
+    },
     {
       "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
       "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
