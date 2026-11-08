@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:52:11.455753Z",
+  "updated_at": "2026-11-08T21:44:19.375901Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T21:00:11Z",
+      "category": "Chips"
+    },
+    {
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T21:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Ja",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "source": "The Verge",
+      "published": "2026-11-08T20:52:05Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T20:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge",
+      "published": "2026-11-08T20:22:39Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T19:51:30Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "published": "2026-11-08T19:18:19Z",
+      "category": "AI"
+    },
     {
       "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
       "summary": "SNL seems to have its knives out for tech executives.",
@@ -360,17 +416,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
+      "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
+      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
       "source": "Wired",
       "published": "2026-11-07T11:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
-      "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
-      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
+      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
       "source": "Wired",
       "published": "2026-11-07T11:00:00Z",
       "category": "Big Tech"
