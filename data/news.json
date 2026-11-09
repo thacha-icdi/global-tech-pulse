@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:35:31.636632Z",
+  "updated_at": "2026-11-09T10:06:37.631196Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,38 @@
     }
   ],
   "items": [
+    {
+      "title": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
+      "summary": "The AI detector will now check your incoming emails for machine-generated text.",
+      "url": "https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/",
+      "source": "Wired",
+      "published": "2026-11-09T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office",
+      "summary": "Homeland Security Investigations estimates that it has sent out more administrative subpoenas since January 2025 than it did in more than six and a half years between 2016 and mid-August 2022.",
+      "url": "https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/",
+      "source": "Wired",
+      "published": "2026-11-09T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI inf",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-09T08:00:53Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "source": "Wired",
+      "published": "2026-11-09T08:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Welcome to Weed Island",
       "summary": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
@@ -144,7 +176,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
       "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board ",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
       "source": "The Verge",
@@ -280,20 +312,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "Chips"
-    },
-    {
       "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
       "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
       "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
       "source": "Wired",
       "published": "2026-11-08T10:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "source": "Wired",
+      "published": "2026-11-08T10:00:00Z",
+      "category": "Chips"
     },
     {
       "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
@@ -504,7 +536,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "The 19 Best Early Black Friday Deals 2026",
+      "title": "The 18 Best Early Black Friday Deals 2026",
       "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can already get right now.",
       "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
       "source": "Wired",
