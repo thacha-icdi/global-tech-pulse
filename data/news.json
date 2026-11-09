@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:21:56.750550Z",
+  "updated_at": "2026-11-09T16:10:54.355899Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,142 @@
   ],
   "items": [
     {
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "source": "The Verge",
+      "published": "2026-11-09T15:50:38Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Disney and Adobe are building generative AI tools together",
+      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney w",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "source": "The Verge",
+      "published": "2026-11-09T15:38:56Z",
+      "category": "AI"
+    },
+    {
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T15:32:27Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I ",
+      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "source": "The Verge",
+      "published": "2026-11-09T15:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+      "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+      "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T15:24:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Medium is launching a new note-taking app called TK",
+      "summary": "For the first time ever, Medium is becoming more than just a blogging platform. The company is launching a new app, called TK, that combines note taking and journaling with something resembling a private social network. The app is meant to get you writing more",
+      "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
+      "source": "The Verge",
+      "published": "2026-11-09T15:04:45Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "How to shop like a pro during Black Friday and Cyber Monday",
+      "summary": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods have started earlier, giving you more tim",
+      "url": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+      "source": "The Verge",
+      "published": "2026-11-09T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Here are the price-matching policies for Best Buy, Walmart, and others",
+      "summary": "Nothing is more frustrating than buying a new pair of headphones or an OLED TV, only to find out you could have gotten it cheaper somewhere else a few days or weeks later. That’s why, to keep customers happy and prevent them from shopping elsewhere, some retai",
+      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+      "source": "The Verge",
+      "published": "2026-11-09T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers",
+      "summary": "Black Friday officially kicks off on November 27th, but if you plan to make that the only day you buy gifts this holiday season, you’re missing out. Several prominent retailers, including Best Buy and Walmart, are preparing to roll out their holiday discounts ",
+      "url": "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
+      "source": "The Verge",
+      "published": "2026-11-09T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Here are the shipping and return policies for all the big-name retailers",
+      "summary": "With the holidays quickly approaching, everyone will soon be on the hunt for gifts and the fastest way to get them. Thankfully, many retailers offer generous shipping policies, with some even providing free two-day shipping or same-day delivery if you’re willi",
+      "url": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon",
+      "source": "The Verge",
+      "published": "2026-11-09T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "We’re giving away a bag filled with almost $900 worth of tech for Black Friday",
+      "summary": "As we inch toward the gift-giving season, which officially kicks off with Black Friday, we thought it’d be the perfect time for another giveaway. As with previous sweepstakes, we raided The Verge’s tech closet and stuffed as much tech as possible into a single",
+      "url": "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes",
+      "source": "The Verge",
+      "published": "2026-11-09T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Verge’s guide to Black Friday 2026",
+      "summary": "Whether you’re hoping to finally upgrade your TV or simply get a head start on your holiday shopping, Black Friday still offers one of the best opportunities to save on the gadgets we prize most at The Verge. From wireless earbuds and smartwatches to robot vac",
+      "url": "https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026",
+      "source": "The Verge",
+      "published": "2026-11-09T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "source": "Wired",
+      "published": "2026-11-09T14:30:56Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-09T14:00:01Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "summary": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
+      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T13:43:28Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and t",
       "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
@@ -72,14 +208,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Instagram’s AI age detection is expanding globally",
-      "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta'",
-      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-      "source": "The Verge",
-      "published": "2026-11-09T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
       "summary": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
       "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
@@ -100,6 +228,14 @@
       "summary": "Google’s Holiday 100 is here. Shop the gifts that are most popular this year and see the Search trends behind them.",
       "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
       "source": "Google Blog",
+      "published": "2026-11-09T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Instagram’s AI age detection is expanding globally",
+      "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta'",
+      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "source": "The Verge",
       "published": "2026-11-09T12:00:00Z",
       "category": "Big Tech"
     },
@@ -440,20 +576,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
       "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
       "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
       "source": "Wired",
       "published": "2026-11-08T10:00:00Z",
       "category": "Chips"
+    },
+    {
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "source": "Wired",
+      "published": "2026-11-08T10:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
@@ -648,17 +784,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
+      "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
+      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
       "source": "Wired",
       "published": "2026-11-07T11:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
-      "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
-      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
+      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
       "source": "Wired",
       "published": "2026-11-07T11:00:00Z",
       "category": "Big Tech"
@@ -713,7 +849,7 @@
     },
     {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "summary": "It's the exact path, not the apparent severity, that matters most, doctors say.",
       "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
       "source": "Ars Technica",
       "published": "2026-11-06T23:09:45Z",
