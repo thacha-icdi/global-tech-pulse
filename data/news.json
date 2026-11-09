@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T16:10:54.355899Z",
+  "updated_at": "2026-11-09T19:01:55.173645Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,11 +40,139 @@
   ],
   "items": [
     {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "published": "2026-11-09T19:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of ",
+      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-09T18:35:25Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T18:09:52Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filte",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "source": "The Verge",
+      "published": "2026-11-09T18:07:23Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T18:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "James Gunn is out as DC movie leader",
+      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. Howe",
+      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+      "source": "The Verge",
+      "published": "2026-11-09T17:39:57Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about ho",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "source": "The Verge",
+      "published": "2026-11-09T17:36:08Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T17:24:26Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in settin",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09T17:05:43Z",
+      "category": "Policy"
+    },
+    {
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Uber wants to park your car now, too",
+      "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of ov",
+      "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+      "source": "The Verge",
+      "published": "2026-11-09T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "summary": "Developers can now build with Google Maps Platform in AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "source": "Google Blog",
+      "published": "2026-11-09T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T16:56:54Z",
+      "category": "AI"
+    },
+    {
+      "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+      "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the ",
+      "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+      "source": "The Verge",
+      "published": "2026-11-09T16:23:31Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T16:12:28Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
       "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
       "source": "The Verge",
       "published": "2026-11-09T15:50:38Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T15:39:21Z",
       "category": "Big Tech"
     },
     {
@@ -77,6 +205,22 @@
       "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
       "source": "TechCrunch",
       "published": "2026-11-09T15:24:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T15:23:20Z",
+      "category": "Chips"
+    },
+    {
+      "title": "F1 in Brazil: You’ve got to keep your tires alive",
+      "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T15:16:31Z",
       "category": "Big Tech"
     },
     {
@@ -153,15 +297,15 @@
     },
     {
       "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-      "summary": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+      "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
       "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
       "source": "TechCrunch",
       "published": "2026-11-09T14:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
       "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
       "source": "TechCrunch",
       "published": "2026-11-09T14:00:00Z",
@@ -169,7 +313,7 @@
     },
     {
       "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
+      "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
       "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
       "source": "TechCrunch",
       "published": "2026-11-09T13:43:28Z",
@@ -241,7 +385,7 @@
     },
     {
       "title": "Tesla expands robotaxi service to San Antonio",
-      "summary": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+      "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
       "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
       "source": "TechCrunch",
       "published": "2026-11-09T11:30:24Z",
@@ -344,7 +488,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
       "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
       "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
       "source": "TechCrunch",
@@ -433,7 +577,7 @@
     },
     {
       "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grids worldwide, but a team of researchers in Germany found the culprit.",
       "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
       "source": "TechCrunch",
       "published": "2026-11-08T20:30:00Z",
@@ -576,20 +720,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "Chips"
-    },
-    {
       "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
       "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
       "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
       "source": "Wired",
       "published": "2026-11-08T10:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "source": "Wired",
+      "published": "2026-11-08T10:00:00Z",
+      "category": "Chips"
     },
     {
       "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
@@ -1640,17 +1784,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "AI in the learning era",
-      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "We’re providing funding for organizations building AI for teachers.",
-      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
-      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "title": "AI in the learning era",
+      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
@@ -1664,17 +1808,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "New research shows how Guided Learning supports students",
-      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
-      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+      "title": "Expanding AI educator training to new countries",
+      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Expanding AI educator training to new countries",
-      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
-      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "title": "New research shows how Guided Learning supports students",
+      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
