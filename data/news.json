@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T04:02:43.740305Z",
+  "updated_at": "2026-11-09T07:35:31.636632Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Welcome to Weed Island",
+      "summary": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
+      "url": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
+      "source": "Wired",
+      "published": "2026-11-09T07:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T05:26:29Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing ",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-09T05:00:40Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform w",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-09T05:00:39Z",
+      "category": "Chips"
+    },
+    {
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays ",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-09T05:00:04Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-09T05:00:00Z",
+      "category": "Chips"
+    },
     {
       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
       "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to N",
@@ -232,20 +280,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
       "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
       "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
       "source": "Wired",
       "published": "2026-11-08T10:00:00Z",
       "category": "Chips"
+    },
+    {
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "source": "Wired",
+      "published": "2026-11-08T10:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
