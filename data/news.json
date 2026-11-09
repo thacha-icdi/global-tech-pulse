@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:06:37.631196Z",
+  "updated_at": "2026-11-09T13:21:56.750550Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,134 @@
     }
   ],
   "items": [
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and t",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09T13:15:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to ma",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09T13:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "summary": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "source": "Google Blog",
+      "published": "2026-11-09T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+      "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T12:00:05Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Instagram’s AI age detection is expanding globally",
+      "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta'",
+      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "source": "The Verge",
+      "published": "2026-11-09T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+      "summary": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
+      "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
+      "source": "Wired",
+      "published": "2026-11-09T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+      "summary": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
+      "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+      "source": "Wired",
+      "published": "2026-11-09T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Holiday 100: Your guide to this year’s top trending gifts",
+      "summary": "Google’s Holiday 100 is here. Shop the gifts that are most popular this year and see the Search trends behind them.",
+      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-09T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "summary": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T11:30:24Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+      "summary": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.",
+      "url": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
+      "source": "Wired",
+      "published": "2026-11-09T11:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Scientists May Have Discovered a Massive Starless Galaxy",
+      "summary": "The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years.",
+      "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+      "source": "Wired",
+      "published": "2026-11-09T11:15:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Torrent underground",
+      "summary": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites ",
+      "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+      "source": "The Verge",
+      "published": "2026-11-09T11:00:05Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
+      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "source": "Wired",
+      "published": "2026-11-09T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "source": "Wired",
+      "published": "2026-11-09T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+      "summary": "The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.",
+      "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+      "source": "Wired",
+      "published": "2026-11-09T10:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The climate case for AI has not been made",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, an",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-09T10:00:00Z",
+      "category": "Chips"
+    },
     {
       "title": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
       "summary": "The AI detector will now check your incoming emails for machine-generated text.",
@@ -1376,9 +1504,9 @@
       "category": "Big Tech"
     },
     {
-      "title": "New research shows how Guided Learning supports students",
-      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
-      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+      "title": "AI in the learning era",
+      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
@@ -1400,9 +1528,9 @@
       "category": "Big Tech"
     },
     {
-      "title": "AI in the learning era",
-      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "title": "New research shows how Guided Learning supports students",
+      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
