@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:00:26.587064Z",
+  "updated_at": "2026-11-10T13:11:08.104300Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,118 @@
   ],
   "items": [
     {
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google Blog",
+      "published": "2026-11-10T13:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T12:15:32Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T12:00:21Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
+      "summary": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
+      "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+      "source": "Wired",
+      "published": "2026-11-10T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Waze and Garmin team up to boost driver awareness of cyclists.",
+      "summary": "Waze and Garmin improve road safety with real-time cycling alerts. See how Garmin LiveTrack icons help drivers stay aware of nearby cyclists. Get the details.",
+      "url": "https://blog.google/waze/garmin-safety-cyclists/",
+      "source": "Google Blog",
+      "published": "2026-11-10T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
+      "summary": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
+      "source": "Wired",
+      "published": "2026-11-10T11:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+      "summary": "Let your friend pick out their own hiking boots. For their next trip into the wild, try gifting a useful blade, merino socks, moka pot, or a nature journal.",
+      "url": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+      "source": "Wired",
+      "published": "2026-11-10T11:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+      "summary": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent",
+      "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+      "source": "The Verge",
+      "published": "2026-11-10T11:01:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+      "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguel",
+      "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+      "source": "The Verge",
+      "published": "2026-11-10T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "source": "Wired",
+      "published": "2026-11-10T11:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "source": "Wired",
+      "published": "2026-11-10T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Huupe Mini 2 Review: More Game Than It Can Handle",
+      "summary": "The Huupe Mini 2 can count baskets, stream shows, and challenge strangers, but I’d settle for a working power button.",
+      "url": "https://www.wired.com/review/huupe-mini-2/",
+      "source": "Wired",
+      "published": "2026-11-10T10:08:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
+      "summary": "NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.",
+      "url": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
+      "source": "Wired",
+      "published": "2026-11-10T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Otter AI can now follow conversations across 30+ languages",
       "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
       "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
@@ -64,22 +176,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Bose Promo Code: 40% Off for November 2026",
-      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Rover Promo Codes and Referral Deals for November 2026",
       "summary": "Score your Rover promo code for November 2026.",
       "url": "https://www.wired.com/story/rover-promo-code/",
@@ -99,6 +195,22 @@
       "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
       "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
       "url": "https://www.wired.com/story/sams-club-coupon/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -808,17 +920,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
+      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
-      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
-      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
@@ -2176,14 +2288,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "We’re providing funding for organizations building AI for teachers.",
-      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
-      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
-      "source": "Google Blog",
-      "published": "2026-11-03T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "AI in the learning era",
       "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
       "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
@@ -2200,17 +2304,25 @@
       "category": "Big Tech"
     },
     {
-      "title": "Expanding AI educator training to new countries",
-      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
-      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "title": "New research shows how Guided Learning supports students",
+      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "New research shows how Guided Learning supports students",
-      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
-      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "source": "Google Blog",
+      "published": "2026-11-03T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Expanding AI educator training to new countries",
+      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
