@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:01:46.337670Z",
+  "updated_at": "2026-11-10T21:49:25.893183Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,110 @@
   ],
   "items": [
     {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T21:08:52Z",
+      "category": "AI"
+    },
+    {
+      "title": "Sony cancels live-service shooter Fairgames",
+      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in t",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "source": "The Verge",
+      "published": "2026-11-10T21:06:12Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:52:13Z",
+      "category": "AI"
+    },
+    {
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:47:05Z",
+      "category": "Startups"
+    },
+    {
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:43:55Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:57:52Z",
+      "category": "AI"
+    },
+    {
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using ",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "source": "The Verge",
+      "published": "2026-11-10T19:40:52Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T19:35:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:23:34Z",
+      "category": "Startups"
+    },
+    {
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order St",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "source": "The Verge",
+      "published": "2026-11-10T19:19:12Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of i",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge",
+      "published": "2026-11-10T19:04:05Z",
+      "category": "Chips"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T19:03:52Z",
+      "category": "AI"
+    },
+    {
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T19:00:26Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Google’s Pixel Tag tracker is now available",
       "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was ren",
       "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
@@ -64,7 +168,7 @@
       "category": "Chips"
     },
     {
-      "title": "Pixel 10 with Gemini Intelligence, custom widgets and more in our November Pixel Drop",
+      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
       "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
       "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
       "source": "Google Blog",
@@ -101,6 +205,14 @@
       "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
       "source": "The Verge",
       "published": "2026-11-10T18:42:03Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T18:39:16Z",
       "category": "Big Tech"
     },
     {
@@ -232,14 +344,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as th",
-      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-      "source": "The Verge",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Gemini 4 Carbon is now available for developers.",
       "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
@@ -268,6 +372,14 @@
       "summary": "Google Registry launches .eat, .fly, and .here today. See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.",
       "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
       "source": "Google Blog",
+      "published": "2026-11-10T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as th",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "source": "The Verge",
       "published": "2026-11-10T16:00:00Z",
       "category": "Big Tech"
     },
@@ -384,30 +496,6 @@
       "category": "AI"
     },
     {
-      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
-      "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
-      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
       "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
       "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
@@ -448,6 +536,30 @@
       "category": "Big Tech"
     },
     {
+      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+      "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
       "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated fro",
       "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
@@ -480,18 +592,18 @@
       "category": "Big Tech"
     },
     {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T13:30:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
       "summary": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
       "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
       "source": "Wired",
+      "published": "2026-11-10T13:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source": "TechCrunch",
       "published": "2026-11-10T13:30:00Z",
       "category": "Big Tech"
     },
@@ -520,14 +632,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T13:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Evolving metal extraction processes",
       "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techn",
       "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
@@ -542,6 +646,14 @@
       "source": "Google Blog",
       "published": "2026-11-10T13:00:00Z",
       "category": "AI"
+    },
+    {
+      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T13:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
@@ -640,14 +752,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T07:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
       "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
       "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
@@ -656,9 +760,33 @@
       "category": "Cybersecurity"
     },
     {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T07:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Valvoline Coupons and Promo Codes for November 2026",
       "summary": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
       "url": "https://www.wired.com/story/valvoline-coupons/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -688,25 +816,25 @@
       "category": "Big Tech"
     },
     {
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Bose Promo Code: 40% Off for November 2026",
-      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Chirp Discount Codes: 67% Off",
       "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
       "url": "https://www.wired.com/story/chirp-discount-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Breville Promo Code: $700 Off | November 2026",
+      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "url": "https://www.wired.com/story/breville-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -755,22 +883,6 @@
       "title": "Casetify Promo Codes | 15% Off November 2026",
       "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
       "url": "https://www.wired.com/story/casetify-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Breville Promo Code: $700 Off | November 2026",
-      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
-      "url": "https://www.wired.com/story/breville-promo-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
