@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:11:08.104300Z",
+  "updated_at": "2026-11-10T15:56:40.284841Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,10 +40,266 @@
   ],
   "items": [
     {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:54:08Z",
+      "category": "Chips"
+    },
+    {
+      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:45:27Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:29:30Z",
+      "category": "AI"
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T15:00:39Z",
+      "category": "AI"
+    },
+    {
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "summary": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
+      "summary": "Get up to 30 percent off and save an extra $60 on orders over $100.",
+      "url": "https://www.wired.com/story/our-place-sale-november-2026/",
+      "source": "Wired",
+      "published": "2026-11-10T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T14:53:05Z",
+      "category": "Chips"
+    },
+    {
+      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+      "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T14:43:49Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+      "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on PCs, the web, Xbox consoles, and even TVs, it appears to be ",
+      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+      "source": "The Verge",
+      "published": "2026-11-10T14:37:09Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Polestar has a new look with its Formula 2030 concept",
+      "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+      "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T14:22:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, accord",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "source": "The Verge",
+      "published": "2026-11-10T14:06:54Z",
+      "category": "AI"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:05:10Z",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:01:39Z",
+      "category": "AI"
+    },
+    {
+      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+      "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+      "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated fro",
+      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+      "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for ",
+      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removin",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "source": "The Verge",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "4DX Movies Are Entering Their Thirsty Romance Era",
+      "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
+      "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google Blog",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "40 years of American culinary history with the James Beard Foundation",
+      "summary": "A new Google Arts & Culture collaboration with the James Beard Foundation brings 10,000 menus to life.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
+      "source": "Google Blog",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T13:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
+      "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functi",
+      "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+      "source": "The Verge",
+      "published": "2026-11-10T13:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arriv",
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "source": "The Verge",
+      "published": "2026-11-10T13:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+      "summary": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
+      "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+      "source": "Wired",
+      "published": "2026-11-10T13:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored leg",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-10T13:10:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
       "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
       "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
       "source": "TechCrunch",
+      "published": "2026-11-10T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techn",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "source": "MIT Technology Review",
       "published": "2026-11-10T13:00:00Z",
       "category": "Big Tech"
     },
@@ -176,6 +432,22 @@
       "category": "Big Tech"
     },
     {
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Rover Promo Codes and Referral Deals for November 2026",
       "summary": "Score your Rover promo code for November 2026.",
       "url": "https://www.wired.com/story/rover-promo-code/",
@@ -200,17 +472,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "title": "Chirp Discount Codes: 67% Off",
+      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "url": "https://www.wired.com/story/chirp-discount-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Bose Promo Code: 40% Off for November 2026",
-      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
+      "title": "Breville Promo Code: $700 Off | November 2026",
+      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "url": "https://www.wired.com/story/breville-promo-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -219,14 +491,6 @@
       "title": "Dyson Promo Codes: 25% Off in November 2026",
       "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
       "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Chirp Discount Codes: 67% Off",
-      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "url": "https://www.wired.com/story/chirp-discount-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -275,14 +539,6 @@
       "title": "Casetify Promo Codes | 15% Off November 2026",
       "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
       "url": "https://www.wired.com/story/casetify-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Breville Promo Code: $700 Off | November 2026",
-      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
-      "url": "https://www.wired.com/story/breville-promo-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -616,18 +872,18 @@
       "category": "Policy"
     },
     {
-      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-      "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "summary": "Developers can now build with Google Maps Platform in AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
       "source": "Google Blog",
+      "published": "2026-11-09T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+      "source": "TechCrunch",
       "published": "2026-11-09T17:00:00Z",
       "category": "Big Tech"
     },
@@ -856,6 +1112,14 @@
       "category": "Big Tech"
     },
     {
+      "title": "Holiday 100: Your guide to this year’s top trending gifts",
+      "summary": "Google’s Holiday 100 is here. Shop the gifts that are most popular this year and see the Search trends behind them.",
+      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-09T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
       "summary": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
       "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
@@ -868,14 +1132,6 @@
       "summary": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
       "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
       "source": "Wired",
-      "published": "2026-11-09T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Holiday 100: Your guide to this year’s top trending gifts",
-      "summary": "Google’s Holiday 100 is here. Shop the gifts that are most popular this year and see the Search trends behind them.",
-      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
-      "source": "Google Blog",
       "published": "2026-11-09T12:00:00Z",
       "category": "Big Tech"
     },
@@ -2280,17 +2536,17 @@
       "category": "Chips"
     },
     {
-      "title": "Designing responsible AI for learning",
-      "summary": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "title": "AI in the learning era",
+      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "AI in the learning era",
-      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
@@ -2312,17 +2568,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "We’re providing funding for organizations building AI for teachers.",
-      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
-      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "title": "Expanding AI educator training to new countries",
+      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Expanding AI educator training to new countries",
-      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
-      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "title": "Designing responsible AI for learning",
+      "summary": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
