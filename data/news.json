@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:10:46.100125Z",
+  "updated_at": "2026-11-10T03:57:49.862495Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T01:27:12Z",
+      "category": "AI"
+    },
     {
       "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
       "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out ",
@@ -640,17 +648,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
+      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
-      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
-      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
