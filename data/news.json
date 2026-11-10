@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:54:26.575798Z",
+  "updated_at": "2026-11-10T01:10:46.100125Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,11 +40,123 @@
   ],
   "items": [
     {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out ",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "published": "2026-11-10T00:28:49Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "source": "Wired",
+      "published": "2026-11-10T00:18:19Z",
+      "category": "Chips"
+    },
+    {
+      "title": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential inves",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "published": "2026-11-09T23:51:58Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge",
+      "published": "2026-11-09T23:47:46Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T23:28:37Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had i",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "published": "2026-11-09T23:07:59Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T23:03:46Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T22:46:09Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+      "source": "Wired",
+      "published": "2026-11-09T22:40:10Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensiv",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T22:23:42Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The Home Depot Best Early Black Friday Deals (2026)",
+      "summary": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
+      "url": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
+      "source": "Wired",
+      "published": "2026-11-09T22:15:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
+      "summary": "Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.",
+      "url": "https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/",
+      "source": "Wired",
+      "published": "2026-11-09T22:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T21:55:35Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
       "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper ",
       "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
       "source": "The Verge",
       "published": "2026-11-09T21:43:41Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T21:13:39Z",
       "category": "Big Tech"
     },
     {
@@ -62,6 +174,14 @@
       "source": "TechCrunch",
       "published": "2026-11-09T20:55:34Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T20:49:09Z",
+      "category": "AI"
     },
     {
       "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
@@ -224,18 +344,18 @@
       "category": "Big Tech"
     },
     {
-      "title": "Uber wants to park your car now, too",
-      "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of ov",
-      "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-      "source": "The Verge",
-      "published": "2026-11-09T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "summary": "Developers can now build with Google Maps Platform in AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
       "source": "Google Blog",
+      "published": "2026-11-09T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Uber wants to park your car now, too",
+      "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of ov",
+      "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+      "source": "The Verge",
       "published": "2026-11-09T17:00:00Z",
       "category": "Big Tech"
     },
@@ -520,17 +640,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
-      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
-      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
+      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
@@ -569,7 +689,7 @@
     },
     {
       "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI inf",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructur",
       "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
       "source": "NVIDIA Blog",
       "published": "2026-11-09T08:00:53Z",
