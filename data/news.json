@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:57:49.862495Z",
+  "updated_at": "2026-11-10T07:17:53.119726Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,166 @@
     }
   ],
   "items": [
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T07:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "source": "Wired",
+      "published": "2026-11-10T07:00:00Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Rover Promo Codes and Referral Deals for November 2026",
+      "summary": "Score your Rover promo code for November 2026.",
+      "url": "https://www.wired.com/story/rover-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "summary": "Shop the Naturepedic sale this November 2026.",
+      "url": "https://www.wired.com/story/naturepedic-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
+      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "url": "https://www.wired.com/story/sams-club-coupon/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Valvoline Coupons and Promo Codes for November 2026",
+      "summary": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "url": "https://www.wired.com/story/valvoline-coupons/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Chirp Discount Codes: 67% Off",
+      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "url": "https://www.wired.com/story/chirp-discount-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+      "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+      "url": "https://www.wired.com/story/barkbox-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Sealy Promo Codes: $100 Off",
+      "summary": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals for November 2026 will have you waking up refreshed—and with cash left in your wallet.",
+      "url": "https://www.wired.com/story/sealy-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Babbel Promo Code: Up to 65% Off in November 2026",
+      "summary": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+      "url": "https://www.wired.com/story/babbel-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "summary": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "url": "https://www.wired.com/story/hr-block-coupon/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Braun Promo Codes: 15% Off November 2026",
+      "summary": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
+      "url": "https://www.wired.com/story/braun-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Casetify Promo Codes | 15% Off November 2026",
+      "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
+      "url": "https://www.wired.com/story/casetify-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Breville Promo Code: $700 Off | November 2026",
+      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "url": "https://www.wired.com/story/breville-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it ",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T05:18:43Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "source": "Wired",
+      "published": "2026-11-10T05:01:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T04:34:15Z",
+      "category": "Chips"
+    },
     {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
@@ -648,17 +808,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
-      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
-      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
+      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
       "source": "Wired",
       "published": "2026-11-09T11:00:00Z",
       "category": "Big Tech"
