@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:05:39.663531Z",
+  "updated_at": "2026-11-11T22:13:03.423352Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,11 +40,131 @@
   ],
   "items": [
     {
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing ef",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-11T22:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Pete Hegseth Is About to Get His Ass Kicked",
+      "summary": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
+      "url": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+      "source": "Wired",
+      "published": "2026-11-11T22:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "published": "2026-11-11T21:54:21Z",
+      "category": "AI"
+    },
+    {
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T20:32:21Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T20:22:03Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects be",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:15:15Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta is losing its longtime head of infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:12:01Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T20:04:28Z",
+      "category": "Startups"
+    },
+    {
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "source": "Wired",
+      "published": "2026-11-11T19:55:54Z",
+      "category": "AI"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:54:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:34:55Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T19:22:22Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T19:00:26Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T18:16:40Z",
+      "category": "Chips"
+    },
+    {
       "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
       "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to t",
       "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
       "source": "The Verge",
       "published": "2026-11-11T18:13:52Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T18:05:26Z",
       "category": "Big Tech"
     },
     {
@@ -65,7 +185,7 @@
     },
     {
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
       "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
       "source": "Ars Technica",
       "published": "2026-11-11T17:37:32Z",
@@ -928,14 +1048,6 @@
       "category": "Chips"
     },
     {
-      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-      "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
-      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Gemini 4 Carbon is now available for developers.",
       "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
@@ -964,6 +1076,14 @@
       "summary": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
       "source": "Google Blog",
+      "published": "2026-11-10T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+      "source": "TechCrunch",
       "published": "2026-11-10T16:00:00Z",
       "category": "Big Tech"
     },
@@ -1264,18 +1384,18 @@
       "category": "Big Tech"
     },
     {
-      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-      "summary": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
-      "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
-      "source": "Wired",
-      "published": "2026-11-10T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Waze and Garmin team up to boost driver awareness of cyclists.",
       "summary": "Waze and Garmin improve road safety with real-time cycling alerts. See how Garmin LiveTrack icons help drivers stay aware of nearby cyclists. Get the details.",
       "url": "https://blog.google/waze/garmin-safety-cyclists/",
       "source": "Google Blog",
+      "published": "2026-11-10T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
+      "summary": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
+      "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+      "source": "Wired",
       "published": "2026-11-10T12:00:00Z",
       "category": "Big Tech"
     },
@@ -3117,126 +3237,6 @@
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "source": "MIT Technology Review",
       "published": "2026-11-06T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T07:18:44Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T06:28:32Z",
-      "category": "AI"
-    },
-    {
-      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-      "summary": "\"This is going to be a game-changer.\"",
-      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T00:17:06Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
-      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T00:07:18Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T00:01:38Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T23:09:36Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
-      "url": "https://www.wired.com/gallery/best-vpn/",
-      "source": "Wired",
-      "published": "2026-11-05T23:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T22:49:03Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T22:40:55Z",
-      "category": "AI"
-    },
-    {
-      "title": "The 7 Best Early Black Friday TV Deals (2026)",
-      "summary": "I found discounts of up to half off some of the top WIRED-tested TVs.",
-      "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/",
-      "source": "Wired",
-      "published": "2026-11-05T22:28:43Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
-      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
-      "source": "Wired",
-      "published": "2026-11-05T22:18:42Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "source": "Wired",
-      "published": "2026-11-05T21:37:18Z",
-      "category": "AI"
-    },
-    {
-      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put mor",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-05T20:00:41Z",
-      "category": "Chips"
-    },
-    {
-      "title": "13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)",
-      "summary": "Get a head start on holiday shopping with discounts on WIRED-tested headphones, laptops, and TVs.",
-      "url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
-      "source": "Wired",
-      "published": "2026-11-05T20:00:29Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
-      "summary": "Create longer AI videos in Google Vids with the new Omni 1.2 Flash model. Generate 15-second clips and consistent scenes for free. Try it now.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
-      "source": "Google Blog",
-      "published": "2026-11-05T20:00:00Z",
       "category": "Big Tech"
     }
   ]
