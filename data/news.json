@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:12:41.215293Z",
+  "updated_at": "2026-11-11T04:02:05.188004Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,14 @@
     }
   ],
   "items": [
+    {
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-11T03:00:20Z",
+      "category": "Big Tech"
+    },
     {
       "title": "X launches its own clipping feature to spur influencer engagement",
       "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
@@ -584,14 +592,6 @@
       "category": "AI"
     },
     {
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
-      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "4DX Movies Are Entering Their Thirsty Romance Era",
       "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
       "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
@@ -606,6 +606,14 @@
       "source": "Wired",
       "published": "2026-11-10T14:00:00Z",
       "category": "AI"
+    },
+    {
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
@@ -864,22 +872,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Bose Promo Code: 40% Off for November 2026",
-      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Rover Promo Codes and Referral Deals for November 2026",
       "summary": "Score your Rover promo code for November 2026.",
       "url": "https://www.wired.com/story/rover-promo-code/",
@@ -904,9 +896,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -963,6 +963,14 @@
       "title": "Casetify Promo Codes | 15% Off November 2026",
       "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
       "url": "https://www.wired.com/story/casetify-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -3229,14 +3237,6 @@
       "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
       "source": "Microsoft Blog",
       "published": "2026-09-25T12:03:50Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "What we’ve learned from Microsoft’s own AI transformation",
-      "summary": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe ",
-      "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
-      "source": "Microsoft Blog",
-      "published": "2026-09-17T14:00:05Z",
       "category": "Big Tech"
     }
   ]
