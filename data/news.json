@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T07:23:56.334138Z",
+  "updated_at": "2026-11-11T10:06:34.072204Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,38 @@
     }
   ],
   "items": [
+    {
+      "title": "The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini",
+      "summary": "Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs.",
+      "url": "https://www.wired.com/gallery/the-best-ipad/",
+      "source": "Wired",
+      "published": "2026-11-11T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers",
+      "summary": "Some users have noticed a new “frequent viewer” label that reveals who repeatedly views their profiles.",
+      "url": "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/",
+      "source": "Wired",
+      "published": "2026-11-11T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source": "Google Blog",
+      "published": "2026-11-11T09:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T07:30:51Z",
+      "category": "Chips"
+    },
     {
       "title": "Best Buy Discount Codes: 60% Off",
       "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
@@ -688,6 +720,14 @@
       "category": "AI"
     },
     {
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "4DX Movies Are Entering Their Thirsty Romance Era",
       "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
       "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
@@ -702,14 +742,6 @@
       "source": "Wired",
       "published": "2026-11-10T14:00:00Z",
       "category": "AI"
-    },
-    {
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
-      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
     },
     {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
@@ -960,6 +992,14 @@
       "category": "Big Tech"
     },
     {
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Rover Promo Codes and Referral Deals for November 2026",
       "summary": "Score your Rover promo code for November 2026.",
       "url": "https://www.wired.com/story/rover-promo-code/",
@@ -979,14 +1019,6 @@
       "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
       "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
       "url": "https://www.wired.com/story/sams-club-coupon/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -3206,38 +3238,6 @@
       "source": "Microsoft Blog",
       "published": "2026-10-28T16:51:35Z",
       "category": "AI"
-    },
-    {
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an N",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "source": "NVIDIA Blog",
-      "published": "2026-10-28T15:00:46Z",
-      "category": "Chips"
-    },
-    {
-      "title": "The platform approach to becoming Frontier",
-      "summary": "Last year at Ignite, we introduced the concept of Frontier Transformation and how it is different from any technology-led pursuit, because it requires us to focus on business outcomes first. It starts with a simple idea: technology was invented to serve humani",
-      "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
-      "source": "Microsoft Blog",
-      "published": "2026-10-27T16:01:38Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. ",
-      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-      "source": "NVIDIA Blog",
-      "published": "2026-10-27T15:00:20Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Introducing a Voluntary Exit Offer",
-      "summary": "Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees today. Today, we’re introducing a new Voluntary Exit Offer (VEO) to eligible employees within participating organizations. This offer gives ",
-      "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
-      "source": "Microsoft Blog",
-      "published": "2026-10-26T15:33:56Z",
-      "category": "Big Tech"
     }
   ]
 }
