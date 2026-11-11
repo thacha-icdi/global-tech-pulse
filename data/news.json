@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:06:34.072204Z",
+  "updated_at": "2026-11-11T13:18:59.526425Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,102 @@
     }
   ],
   "items": [
+    {
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concern",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "source": "The Verge",
+      "published": "2026-11-11T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Not everyone is loving their new iPhone Duo",
+      "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of",
+      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "source": "The Verge",
+      "published": "2026-11-11T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, ",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "source": "The Verge",
+      "published": "2026-11-11T12:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Indoor Garden Systems I’ve Been Testing for Years (2026)",
+      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.",
+      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "source": "Wired",
+      "published": "2026-11-11T12:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple is killing its Support Community forum next week",
+      "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the com",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "source": "The Verge",
+      "published": "2026-11-11T12:19:10Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
+      "url": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
+      "source": "Wired",
+      "published": "2026-11-11T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
+      "summary": "Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.",
+      "url": "https://www.wired.com/story/best-oled-tv/",
+      "source": "Wired",
+      "published": "2026-11-11T11:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+      "summary": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.",
+      "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+      "source": "Wired",
+      "published": "2026-11-11T11:15:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
+      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "source": "Wired",
+      "published": "2026-11-11T11:02:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "source": "Wired",
+      "published": "2026-11-11T11:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+      "summary": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.",
+      "url": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+      "source": "Wired",
+      "published": "2026-11-11T10:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Early Black Friday Deals Under $100 (2026)",
+      "summary": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
+      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/",
+      "source": "Wired",
+      "published": "2026-11-11T10:12:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini",
       "summary": "Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs.",
@@ -368,22 +464,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was ren",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "source": "The Verge",
-      "published": "2026-11-10T19:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
-      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "source": "The Verge",
-      "published": "2026-11-10T19:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Gemini Intelligence: New features, on more devices",
       "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
@@ -404,6 +484,22 @@
       "summary": "Get live workout guidance on your Pixel Watch with Google. Follow custom routines and track reps directly on your wrist. See how it works.",
       "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
       "source": "Google Blog",
+      "published": "2026-11-10T19:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google’s Pixel Tag tracker is now available",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was ren",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge",
+      "published": "2026-11-10T19:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge",
       "published": "2026-11-10T19:00:00Z",
       "category": "Big Tech"
     },
@@ -3142,102 +3238,6 @@
       "source": "Google Blog",
       "published": "2026-11-03T14:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Designing responsible AI for learning",
-      "summary": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-03T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powe",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-03T13:10:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digi",
-      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-03T07:00:12Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Advancing research and partnering with universities in Singapore",
-      "summary": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-      "source": "Google Blog",
-      "published": "2026-11-03T04:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-02T17:45:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google Messages, Phone by Google, and Google Contacts get new, updated icons.",
-      "summary": "Google is updating the icons for Messages, Phone, and Contacts with a sleeker, cohesive design. See the new look for your home screen.",
-      "url": "https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/",
-      "source": "Google Blog",
-      "published": "2026-11-02T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google Fitbit Edge: On shelves now",
-      "summary": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
-      "source": "Google Blog",
-      "published": "2026-10-30T20:15:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-      "summary": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-      "source": "Google Blog",
-      "published": "2026-10-30T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "See who has access to your Gmail inbox in 2 minutes.",
-      "summary": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
-      "source": "Google Blog",
-      "published": "2026-10-30T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it i",
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "source": "NVIDIA Blog",
-      "published": "2026-10-30T15:00:10Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s a",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-      "source": "NVIDIA Blog",
-      "published": "2026-10-29T13:00:16Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-      "summary": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard.",
-      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-      "source": "Microsoft Blog",
-      "published": "2026-10-28T16:51:35Z",
-      "category": "AI"
     }
   ]
 }
