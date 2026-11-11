@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:58:06.342259Z",
+  "updated_at": "2026-11-11T19:05:39.663531Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,158 @@
   ],
   "items": [
     {
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to t",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "source": "The Verge",
+      "published": "2026-11-11T18:13:52Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google Blog",
+      "published": "2026-11-11T18:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+      "summary": "Henry Cavill’s “Mustache Protocol” is live. See how the game came together on Googlebook, and help us raise $500,000 for men’s health.",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+      "source": "Google Blog",
+      "published": "2026-11-11T18:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T17:37:32Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "source": "The Verge",
+      "published": "2026-11-11T17:09:58Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
+      "source": "Wired",
+      "published": "2026-11-11T17:08:14Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "summary": "Apple has already made the forum read-only.",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T17:04:26Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "What to know about this year’s UN climate talks",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "source": "Wired",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "Startups"
+    },
+    {
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "summary": "Gemini is now available on Apple CarPlay.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+      "source": "Google Blog",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Google’s ongoing commitment to the veteran community",
+      "summary": "On Veterans’ Day 2026, we’re spotlighting how Google invests in career pathways for veterans and the military community.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "summary": "In our Security 2027 analysis, leaders from across Google, Google Cloud, and Mandiant break down the critical trends shaping the next era of defense.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
+      "source": "Google Blog",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "source": "Google Blog",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T16:33:08Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:16:07Z",
+      "category": "Chips"
+    },
+    {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:14:44Z",
+      "category": "AI"
+    },
+    {
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "source": "Wired",
+      "published": "2026-11-11T16:13:03Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Mo",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "source": "The Verge",
+      "published": "2026-11-11T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google Blog",
+      "published": "2026-11-11T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "The best early Black Friday deals you can already shop",
       "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising acro",
       "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
@@ -64,16 +216,24 @@
       "category": "Chips"
     },
     {
-      "title": "Siri co-founder backs Helix for its voice ID tech",
-      "summary": "Helix said that its voice ID tech can run on an iPhone 13",
-      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:02:47Z",
+      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
+      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T15:25:44Z",
       "category": "Big Tech"
     },
     {
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:02:47Z",
+      "category": "AI"
+    },
+    {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
       "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "source": "TechCrunch",
       "published": "2026-11-11T15:00:00Z",
@@ -168,18 +328,18 @@
       "category": "Big Tech"
     },
     {
-      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, ",
-      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-      "source": "The Verge",
-      "published": "2026-11-11T12:30:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Best Indoor Garden Systems I’ve Been Testing for Years (2026)",
       "summary": "Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.",
       "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
       "source": "Wired",
+      "published": "2026-11-11T12:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, ",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "source": "The Verge",
       "published": "2026-11-11T12:30:00Z",
       "category": "Big Tech"
     },
@@ -784,9 +944,9 @@
       "category": "Cybersecurity"
     },
     {
-      "title": "Introducing the Multimodal Knowledge Agent benchmark",
-      "summary": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "title": "Introducing 3 new domains: .eat, .fly, and .here",
+      "summary": "Google Registry launches .eat, .fly, and .here today. See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.",
+      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
       "source": "Google Blog",
       "published": "2026-11-10T16:00:00Z",
       "category": "Big Tech"
@@ -800,9 +960,9 @@
       "category": "AI"
     },
     {
-      "title": "Introducing 3 new domains: .eat, .fly, and .here",
-      "summary": "Google Registry launches .eat, .fly, and .here today. See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.",
-      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
+      "title": "Introducing the Multimodal Knowledge Agent benchmark",
+      "summary": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
       "source": "Google Blog",
       "published": "2026-11-10T16:00:00Z",
       "category": "Big Tech"
@@ -3078,166 +3238,6 @@
       "source": "Google Blog",
       "published": "2026-11-05T20:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
-      "summary": "More than 80 percent of congressional candidates backed by the pro-science PAC 314 Action won, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
-      "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
-      "source": "Wired",
-      "published": "2026-11-05T19:55:24Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that ",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-05T17:00:35Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Investing in Wyoming’s infrastructure, energy and workforce",
-      "summary": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-      "source": "Google Blog",
-      "published": "2026-11-05T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Transform a quick drawing into a live app with Gemini.",
-      "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
-      "source": "Google Blog",
-      "published": "2026-11-05T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "source": "Google Blog",
-      "published": "2026-11-05T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
-      "source": "Wired",
-      "published": "2026-11-05T16:26:57Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who special",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-05T16:00:05Z",
-      "category": "Chips"
-    },
-    {
-      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-      "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory ",
-      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-05T16:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Area Man Feels Joy Online for First Time in Years",
-      "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
-      "source": "Wired",
-      "published": "2026-11-05T15:38:07Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, wi",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-05T14:00:34Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Check out our free livestream during National Veterans Small Business Week.",
-      "summary": "Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-05T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
-      "source": "Wired",
-      "published": "2026-11-05T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
-      "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
-      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
-      "source": "Wired",
-      "published": "2026-11-05T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center ",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-05T13:10:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-      "source": "Wired",
-      "published": "2026-11-05T13:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
-      "summary": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
-      "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
-      "source": "Wired",
-      "published": "2026-11-05T13:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "AI’s Next Trick? Speaking Dolphin",
-      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-      "source": "Wired",
-      "published": "2026-11-05T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
-      "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
-      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
-      "source": "Wired",
-      "published": "2026-11-05T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "source": "Wired",
-      "published": "2026-11-05T11:45:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs A",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-05T10:00:00Z",
-      "category": "Policy"
     }
   ]
 }
