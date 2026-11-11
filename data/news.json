@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:18:59.526425Z",
+  "updated_at": "2026-11-11T15:58:06.342259Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,118 @@
     }
   ],
   "items": [
+    {
+      "title": "The best early Black Friday deals you can already shop",
+      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising acro",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-11T15:53:55Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but li",
+      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-11T15:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "source": "Wired",
+      "published": "2026-11-11T15:30:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "summary": "Helix said that its voice ID tech can run on an iPhone 13",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:02:47Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Ocarina of Time is even better if you use a smartphone app",
+      "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanti",
+      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T14:08:57Z",
+      "category": "AI"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T14:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse",
+      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-11T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI c",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "source": "The Verge",
+      "published": "2026-11-11T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
+      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "source": "Wired",
+      "published": "2026-11-11T13:36:15Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Streaming is still trying to be TikTok",
+      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Mo",
+      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+      "source": "The Verge",
+      "published": "2026-11-11T13:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniabl",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-11T13:10:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "I asked every TV manufacturer 17 questions about how they spy on you",
       "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concern",
@@ -736,6 +848,14 @@
       "category": "AI"
     },
     {
+      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
+      "summary": "Get up to 30 percent off and save an extra $60 on orders over $100.",
+      "url": "https://www.wired.com/story/our-place-sale-november-2026/",
+      "source": "Wired",
+      "published": "2026-11-10T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Reddit is turning user conversations into AI-powered product reviews",
       "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
       "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
@@ -748,14 +868,6 @@
       "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
       "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
       "source": "TechCrunch",
-      "published": "2026-11-10T15:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
-      "summary": "Get up to 30 percent off and save an extra $60 on orders over $100.",
-      "url": "https://www.wired.com/story/our-place-sale-november-2026/",
-      "source": "Wired",
       "published": "2026-11-10T15:00:00Z",
       "category": "Big Tech"
     },
@@ -3126,118 +3238,6 @@
       "source": "MIT Technology Review",
       "published": "2026-11-05T10:00:00Z",
       "category": "Policy"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gin",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-04T18:50:55Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio R",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-04T18:21:40Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Watch Henry Cavill build a video game on his Googlebook",
-      "summary": "Henry Cavill built a video game on his Googlebook to help support men’s health.",
-      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
-      "source": "Google Blog",
-      "published": "2026-11-04T18:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramat",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-04T17:08:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "We're sharing our framework for building safer and more helpful AI for health.",
-      "summary": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
-      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
-      "source": "Google Blog",
-      "published": "2026-11-04T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry studen",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-04T13:10:00Z",
-      "category": "Startups"
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to d",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-04T13:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Take a closer look at art with the Courtauld",
-      "summary": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
-      "source": "Google Blog",
-      "published": "2026-11-04T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps bac",
-      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-03T16:00:45Z",
-      "category": "Chips"
-    },
-    {
-      "title": "AI in the learning era",
-      "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-03T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "We’re providing funding for organizations building AI for teachers.",
-      "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
-      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
-      "source": "Google Blog",
-      "published": "2026-11-03T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Working collaboratively to fight scams in Asia Pacific",
-      "summary": "Google combines built-in protections with local partnerships and education to tackle scams in APAC.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
-      "source": "Google Blog",
-      "published": "2026-11-03T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "New research shows how Guided Learning supports students",
-      "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
-      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
-      "source": "Google Blog",
-      "published": "2026-11-03T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Expanding AI educator training to new countries",
-      "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
-      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-03T14:00:00Z",
-      "category": "Big Tech"
     }
   ]
 }
