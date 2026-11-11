@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:49:25.893183Z",
+  "updated_at": "2026-11-11T01:12:41.215293Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,86 @@
   ],
   "items": [
     {
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T01:02:13Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new ",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "source": "The Verge",
+      "published": "2026-11-11T00:34:24Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T23:30:56Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T23:02:39Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "source": "Wired",
+      "published": "2026-11-10T22:42:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T22:35:01Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Bla",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "source": "The Verge",
+      "published": "2026-11-10T22:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T21:55:26Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to del",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "source": "The Verge",
+      "published": "2026-11-10T21:40:31Z",
+      "category": "Startups"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T21:12:59Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -65,7 +145,7 @@
     },
     {
       "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch",
       "published": "2026-11-10T20:47:05Z",
@@ -77,6 +157,14 @@
       "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
       "source": "TechCrunch",
       "published": "2026-11-10T20:43:55Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T20:30:01Z",
       "category": "Big Tech"
     },
     {
@@ -153,7 +241,7 @@
     },
     {
       "title": "Google is making Pixel HiLight slightly more useful",
-      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
       "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
       "source": "The Verge",
       "published": "2026-11-10T19:00:00Z",
@@ -816,25 +904,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Chirp Discount Codes: 67% Off",
-      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "url": "https://www.wired.com/story/chirp-discount-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Breville Promo Code: $700 Off | November 2026",
-      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
-      "url": "https://www.wired.com/story/breville-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Dyson Promo Codes: 25% Off in November 2026",
       "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
       "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Chirp Discount Codes: 67% Off",
+      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "url": "https://www.wired.com/story/chirp-discount-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
@@ -883,6 +963,14 @@
       "title": "Casetify Promo Codes | 15% Off November 2026",
       "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
       "url": "https://www.wired.com/story/casetify-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-10T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Breville Promo Code: $700 Off | November 2026",
+      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "url": "https://www.wired.com/story/breville-promo-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
