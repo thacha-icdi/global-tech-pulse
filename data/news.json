@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T19:03:44.400068Z",
+  "updated_at": "2026-11-12T21:54:11.448380Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,174 @@
   ],
   "items": [
     {
+      "title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only rep",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "source": "The Verge",
+      "published": "2026-11-12T21:45:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T21:35:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in st",
+      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-12T21:28:53Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T21:27:10Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Walmart Early Black Friday Deals Double as Great Gifts (2026)",
+      "summary": "Save on some of our favorite giftable vacuums, headphones, pet gadgets, and more ahead of Black Friday.",
+      "url": "https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/",
+      "source": "Wired",
+      "published": "2026-11-12T21:21:33Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital co",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "source": "The Verge",
+      "published": "2026-11-12T21:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Microsoft Outlook is down",
+      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a porti",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source": "The Verge",
+      "published": "2026-11-12T20:43:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "source": "Wired",
+      "published": "2026-11-12T20:35:11Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "5 new Google Flow Tools designed by visual artists",
+      "summary": "Designed by filmmakers and visual artists, five new Google Flow Tools will help you bring your next story to life.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "source": "Google Blog",
+      "published": "2026-11-12T20:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T20:26:47Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while a",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-12T20:16:24Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+      "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.",
+      "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+      "source": "Wired",
+      "published": "2026-11-12T20:01:33Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meet the people who want peptides to be made in America",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Op",
+      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
+      "source": "The Verge",
+      "published": "2026-11-12T20:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T19:59:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T19:49:11Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal l",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge",
+      "published": "2026-11-12T19:42:40Z",
+      "category": "AI"
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:27:45Z",
+      "category": "AI"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T19:23:03Z",
+      "category": "AI"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:11:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T19:09:57Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T19:03:39Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
       "summary": "Humanity has thrived thanks to a stable cryosphere, but burning fossil fuels has increased the risk of “accelerating and partly irreversible” harm to the planet’s cold places.",
       "url": "https://www.wired.com/story/climate-change-abolishes-ice/",
@@ -56,7 +224,7 @@
       "category": "Chips"
     },
     {
-      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
       "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
       "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
       "source": "Ars Technica",
@@ -65,7 +233,7 @@
     },
     {
       "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
       "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "source": "TechCrunch",
       "published": "2026-11-12T18:39:23Z",
@@ -216,22 +384,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00Z",
-      "category": "AI"
-    },
-    {
       "title": "Scientists are using Google AI to help restore giant kelp forests.",
       "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
@@ -260,6 +412,22 @@
       "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
       "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge",
       "published": "2026-11-12T17:00:00Z",
       "category": "AI"
     },
@@ -392,14 +560,6 @@
       "category": "AI"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T14:30:01Z",
-      "category": "Chips"
-    },
-    {
       "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
       "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
       "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
@@ -464,17 +624,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
-      "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
-      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+      "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
       "source": "Wired",
       "published": "2026-11-12T14:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-      "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
-      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+      "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
+      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
       "source": "Wired",
       "published": "2026-11-12T14:00:00Z",
       "category": "Big Tech"
@@ -992,14 +1152,6 @@
       "category": "AI"
     },
     {
-      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
-      "source": "Google Blog",
-      "published": "2026-11-11T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Google’s ongoing commitment to the veteran community",
       "summary": "On Veterans’ Day 2026, we’re spotlighting how Google invests in career pathways for veterans and the military community.",
       "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
@@ -1014,6 +1166,14 @@
       "source": "Google Blog",
       "published": "2026-11-11T17:00:00Z",
       "category": "Cybersecurity"
+    },
+    {
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "source": "Google Blog",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "A Startup Wants to Fight AI Bioweapons With AI",
@@ -1616,17 +1776,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
       "source": "Google Blog",
       "published": "2026-11-10T19:00:00Z",
       "category": "Chips"
     },
     {
-      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-      "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "source": "Google Blog",
       "published": "2026-11-10T19:00:00Z",
       "category": "Chips"
@@ -1800,7 +1960,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
       "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + C",
       "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
       "source": "NVIDIA Blog",
@@ -3078,166 +3238,6 @@
       "source": "NVIDIA Blog",
       "published": "2026-11-09T05:00:39Z",
       "category": "Chips"
-    },
-    {
-      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays ",
-      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-09T05:00:04Z",
-      "category": "Chips"
-    },
-    {
-      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU",
-      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-09T05:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to N",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge",
-      "published": "2026-11-08T22:54:50Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - ",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "source": "The Verge",
-      "published": "2026-11-08T22:37:22Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T22:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T21:00:11Z",
-      "category": "Chips"
-    },
-    {
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T21:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Ja",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "source": "The Verge",
-      "published": "2026-11-08T20:52:05Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "summary": "Mystery solved: Coordinated power drops have been haunting power grids worldwide, but a team of researchers in Germany found the culprit.",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T20:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "source": "The Verge",
-      "published": "2026-11-08T20:22:39Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T19:51:30Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "published": "2026-11-08T19:18:19Z",
-      "category": "AI"
-    },
-    {
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "summary": "SNL seems to have its knives out for tech executives.",
-      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T18:00:04Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T17:30:00Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "source": "The Verge",
-      "published": "2026-11-08T17:23:19Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T17:02:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-08T16:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that A",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "source": "The Verge",
-      "published": "2026-11-08T15:00:30Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
-      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-      "source": "TechCrunch",
-      "published": "2026-11-08T15:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "There’s no slowing down media’s pivot-to-video 2.0",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for T",
-      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-      "source": "The Verge",
-      "published": "2026-11-08T13:00:00Z",
-      "category": "Big Tech"
     }
   ]
 }
