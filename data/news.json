@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:22:04.949094Z",
+  "updated_at": "2026-11-12T04:01:06.763234Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T03:13:10Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
+      "summary": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.",
+      "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+      "source": "Wired",
+      "published": "2026-11-12T02:33:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
+      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
+      "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+      "source": "Wired",
+      "published": "2026-11-12T01:53:24Z",
+      "category": "Big Tech"
+    },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
@@ -153,7 +177,7 @@
     },
     {
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "source": "TechCrunch",
       "published": "2026-11-11T19:54:00Z",
@@ -600,14 +624,6 @@
       "category": "Chips"
     },
     {
-      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
-      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
-      "url": "https://www.wired.com/story/noom-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Best Buy Discount Codes: 60% Off",
       "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
       "url": "https://www.wired.com/story/best-buy-discount-code/",
@@ -651,6 +667,14 @@
       "title": "OnePlus Promo Codes: 30% Off November 2026",
       "summary": "Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.",
       "url": "https://www.wired.com/story/oneplus-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-11T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "url": "https://www.wired.com/story/noom-promo-code/",
       "source": "Wired",
       "published": "2026-11-11T06:00:00Z",
       "category": "Big Tech"
@@ -1248,28 +1272,12 @@
       "category": "AI"
     },
     {
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
-      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "4DX Movies Are Entering Their Thirsty Romance Era",
       "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
       "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
       "source": "Wired",
       "published": "2026-11-10T14:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "AI"
     },
     {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
@@ -1286,6 +1294,22 @@
       "source": "Google Blog",
       "published": "2026-11-10T14:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "source": "Wired",
+      "published": "2026-11-10T14:00:00Z",
+      "category": "AI"
     },
     {
       "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
@@ -3213,30 +3237,6 @@
       "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "source": "TechCrunch",
       "published": "2026-11-06T13:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-      "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
-      "url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
-      "source": "Wired",
-      "published": "2026-11-06T12:05:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Horny Grandmas Are Having a Moment",
-      "summary": "Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.",
-      "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment/",
-      "source": "Wired",
-      "published": "2026-11-06T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T11:50:10Z",
       "category": "Big Tech"
     }
   ]
