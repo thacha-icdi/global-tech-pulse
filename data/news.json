@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T07:28:29.197203Z",
+  "updated_at": "2026-11-12T10:11:28.795518Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,22 @@
   ],
   "items": [
     {
+      "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
+      "summary": "Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic.",
+      "url": "https://www.wired.com/review/rocco-super-smart-fridge/",
+      "source": "Wired",
+      "published": "2026-11-12T10:08:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
+      "summary": "These Arctic currents have never broken down so early in the season. Combined with an unprecedented El Niño, the outcomes aren’t easy to predict.",
+      "url": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
+      "source": "Wired",
+      "published": "2026-11-12T08:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "TurboTax Full Service Coupons This November 2026",
       "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
       "url": "https://www.wired.com/story/turbotax-coupon/",
@@ -72,6 +88,14 @@
       "category": "Big Tech"
     },
     {
+      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "source": "Wired",
+      "published": "2026-11-12T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "HelloFresh Promo Codes: 55% Off for November 2026",
       "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in November 2026. Discover our best codes and discounts to let you save time and money.",
       "url": "https://www.wired.com/story/hellofresh-coupon/",
@@ -99,14 +123,6 @@
       "title": "Ruggable Discount Code: 30% Off Rugs | November 2026",
       "summary": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
       "url": "https://www.wired.com/story/ruggable-discount-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
       "source": "Wired",
       "published": "2026-11-12T06:00:00Z",
       "category": "Big Tech"
@@ -3221,22 +3237,6 @@
       "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
       "source": "The Verge",
       "published": "2026-11-06T17:40:06Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center de",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch",
-      "published": "2026-11-06T17:23:52Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
-      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T17:06:32Z",
       "category": "Big Tech"
     }
   ]
