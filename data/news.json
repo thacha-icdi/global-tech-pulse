@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:10:45.524316Z",
+  "updated_at": "2026-11-12T19:03:44.400068Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,270 @@
   ],
   "items": [
     {
+      "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
+      "summary": "Humanity has thrived thanks to a stable cryosphere, but burning fossil fuels has increased the risk of “accelerating and partly irreversible” harm to the planet’s cold places.",
+      "url": "https://www.wired.com/story/climate-change-abolishes-ice/",
+      "source": "Wired",
+      "published": "2026-11-12T19:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "source": "Wired",
+      "published": "2026-11-12T18:59:58Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T18:57:45Z",
+      "category": "AI"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T18:39:23Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Netflix releases new trailer for Ray Gunn",
+      "summary": "\"It's hard being the only honest players in a crooked game.\"",
+      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T18:38:38Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+      "summary": "\"We're not doing this thing because we like rockets.\"",
+      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T18:28:22Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T18:17:19Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "source": "The Verge",
+      "published": "2026-11-12T18:06:54Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "source": "Wired",
+      "published": "2026-11-12T18:05:41Z",
+      "category": "AI"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google Blog",
+      "published": "2026-11-12T18:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "source": "Google Blog",
+      "published": "2026-11-12T18:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "Google Blog",
+      "published": "2026-11-12T18:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "source": "Wired",
+      "published": "2026-11-12T17:59:15Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The Jensen Huang scandal is hardly over",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the o",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "source": "The Verge",
+      "published": "2026-11-12T17:44:33Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:36:40Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The amazing disappearing exoplanet",
+      "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
+      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T17:18:10Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:17:58Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:00:52Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+      "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, how",
+      "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:17Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "From AI ambition to business impact",
+      "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actual",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "source": "Microsoft Blog",
+      "published": "2026-11-12T17:00:03Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "25 years later, Xbox is trying to reinvent itself again",
+      "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. ",
+      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meet the 2026 Google PhD Fellows",
+      "summary": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+      "summary": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. Check your eligibility today.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+      "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Get quick answers from Gemini on any website.",
+      "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+      "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Google Wallet can finally unlock doors with digital home keys",
+      "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to",
+      "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+      "source": "The Verge",
+      "published": "2026-11-12T16:56:33Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:36:37Z",
+      "category": "Policy"
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:32:33Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Jensen Huang is out. What did China want from him?",
+      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affa",
+      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "source": "The Verge",
+      "published": "2026-11-12T16:30:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:12:44Z",
+      "category": "Chips"
+    },
+    {
       "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
       "summary": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared w",
       "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
@@ -49,7 +313,7 @@
     },
     {
       "title": "Whoop just launched a social network",
-      "summary": "Whoop is launching a social network that lets members share their sleep, recovery and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+      "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
       "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
       "source": "TechCrunch",
       "published": "2026-11-12T16:00:00Z",
@@ -57,14 +321,14 @@
     },
     {
       "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
-      "summary": "After its latest device failed to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
+      "summary": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
       "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
       "source": "Wired",
       "published": "2026-11-12T15:58:21Z",
       "category": "Startups"
     },
     {
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead",
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
       "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
       "source": "The Verge",
@@ -192,6 +456,46 @@
       "category": "Big Tech"
     },
     {
+      "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
+      "summary": "The Warby Parker and Gentle Monster frames cost $395 and $449, respectively, and come in a handful of styles.",
+      "url": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+      "source": "Wired",
+      "published": "2026-11-12T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+      "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
+      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+      "source": "Wired",
+      "published": "2026-11-12T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+      "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+      "source": "Wired",
+      "published": "2026-11-12T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Designing for privacy on intelligent eyewear",
+      "summary": "Learn more about privacy protections on intelligent eyewear.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+      "source": "Google Blog",
+      "published": "2026-11-12T14:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "See our intelligent eyewear lineup and pre-order your pair",
+      "summary": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
+      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+      "source": "Google Blog",
+      "published": "2026-11-12T14:00:00Z",
+      "category": "Chips"
+    },
+    {
       "title": "The pricey new Apple TV 4K is still the best streamer around",
       "summary": "I'm sitting in front of my TV, puppy nuzzled up next to me, with four HomePods spread around my living room - two flanking my TV and one at either end of my couch - connected to the brand new Apple TV 4K. Young Anakin Skywalker hits the throttle and flies thro",
       "url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
@@ -214,46 +518,6 @@
       "source": "The Verge",
       "published": "2026-11-12T14:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
-      "summary": "The Warby Parker and Gentle Monster frames cost $395 and $449, respectively, and come in a handful of styles.",
-      "url": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
-      "source": "Wired",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-      "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
-      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
-      "source": "Wired",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
-      "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
-      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
-      "source": "Wired",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Designing for privacy on intelligent eyewear",
-      "summary": "Learn more about privacy protections on intelligent eyewear.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
-      "source": "Google Blog",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "See our intelligent eyewear lineup and pre-order your pair",
-      "summary": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
-      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
-      "source": "Google Blog",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Chips"
     },
     {
       "title": "Jensen Huang Resigns as Nvidia CEO",
@@ -281,7 +545,7 @@
     },
     {
       "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
       "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
       "source": "TechCrunch",
       "published": "2026-11-12T13:26:25Z",
@@ -720,20 +984,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "A Startup Wants to Fight AI Bioweapons With AI",
-      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-      "source": "Wired",
-      "published": "2026-11-11T17:00:00Z",
-      "category": "Startups"
-    },
-    {
       "title": "Talk it through with Gemini, now on Apple CarPlay",
       "summary": "Gemini is now available on Apple CarPlay.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
       "source": "Google Blog",
       "published": "2026-11-11T17:00:00Z",
       "category": "AI"
+    },
+    {
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "source": "Google Blog",
+      "published": "2026-11-11T17:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "Google’s ongoing commitment to the veteran community",
@@ -752,12 +1016,12 @@
       "category": "Cybersecurity"
     },
     {
-      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
-      "source": "Google Blog",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "source": "Wired",
       "published": "2026-11-11T17:00:00Z",
-      "category": "Big Tech"
+      "category": "Startups"
     },
     {
       "title": "IBM to offer access to a dual-processor quantum system in 2027",
@@ -1360,20 +1624,20 @@
       "category": "Chips"
     },
     {
-      "title": "Get step-by-step workout guidance on your Pixel Watch.",
-      "summary": "Get live workout guidance on your Pixel Watch with Google. Follow custom routines and track reps directly on your wrist. See how it works.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
-      "source": "Google Blog",
-      "published": "2026-11-10T19:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
       "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
       "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
       "source": "Google Blog",
       "published": "2026-11-10T19:00:00Z",
       "category": "Chips"
+    },
+    {
+      "title": "Get step-by-step workout guidance on your Pixel Watch.",
+      "summary": "Get live workout guidance on your Pixel Watch with Google. Follow custom routines and track reps directly on your wrist. See how it works.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
+      "source": "Google Blog",
+      "published": "2026-11-10T19:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "Google’s Pixel Tag tracker is now available",
@@ -2973,270 +3237,6 @@
       "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
       "source": "The Verge",
       "published": "2026-11-08T13:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "source": "Ars Technica",
-      "published": "2026-11-08T12:15:31Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
-      "url": "https://www.wired.com/gallery/best-computer-speakers/",
-      "source": "Wired",
-      "published": "2026-11-08T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "source": "Wired",
-      "published": "2026-11-08T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
-      "summary": "More evidence that magnets are magical.",
-      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-      "source": "Wired",
-      "published": "2026-11-08T11:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
-      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-      "source": "Wired",
-      "published": "2026-11-08T11:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
-      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
-      "source": "Wired",
-      "published": "2026-11-08T10:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "source": "Wired",
-      "published": "2026-11-08T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T22:07:22Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T21:17:08Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T19:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T17:24:07Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T17:18:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Ha",
-      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-      "source": "The Verge",
-      "published": "2026-11-07T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Co",
-      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-07T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a sh",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "source": "The Verge",
-      "published": "2026-11-07T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in whi",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "source": "The Verge",
-      "published": "2026-11-07T15:50:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge",
-      "published": "2026-11-07T15:43:45Z",
-      "category": "Chips"
-    },
-    {
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Al",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "source": "The Verge",
-      "published": "2026-11-07T15:00:00Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "Good riddance, Cybertruck!",
-      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humi",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "source": "The Verge",
-      "published": "2026-11-07T14:40:06Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Zelda is back and better than ever",
-      "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepag",
-      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-      "source": "The Verge",
-      "published": "2026-11-07T13:49:01Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
-      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "source": "Wired",
-      "published": "2026-11-07T13:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursd",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge",
-      "published": "2026-11-07T12:30:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-      "source": "Ars Technica",
-      "published": "2026-11-07T12:15:55Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-      "url": "https://www.wired.com/gallery/best-wifi-routers/",
-      "source": "Wired",
-      "published": "2026-11-07T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
-      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-      "source": "Wired",
-      "published": "2026-11-07T11:45:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "source": "Wired",
-      "published": "2026-11-07T11:37:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
-      "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-      "source": "Wired",
-      "published": "2026-11-07T11:15:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "source": "Ars Technica",
-      "published": "2026-11-07T11:00:34Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "source": "Wired",
-      "published": "2026-11-07T11:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
-      "summary": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
-      "url": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
-      "source": "Wired",
-      "published": "2026-11-07T11:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
-      "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
-      "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
-      "source": "Wired",
-      "published": "2026-11-07T11:00:00Z",
       "category": "Big Tech"
     }
   ]
