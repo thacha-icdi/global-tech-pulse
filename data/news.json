@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:17:54.043929Z",
+  "updated_at": "2026-11-13T15:56:28.114960Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,12 +40,116 @@
   ],
   "items": [
     {
+      "title": "The best early Black Friday deals you can already shop",
+      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-13T15:49:27Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Microsoft’s massive Outlook outage continues",
+      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are r",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge",
+      "published": "2026-11-13T15:29:21Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T15:26:53Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. App",
+      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "source": "The Verge",
+      "published": "2026-11-13T15:22:14Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+      "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
+      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T15:09:39Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T14:57:55Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's ",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge",
+      "published": "2026-11-13T14:47:16Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T14:45:04Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T14:44:48Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+      "summary": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Gene",
+      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "source": "The Verge",
+      "published": "2026-11-13T14:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+      "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
+      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T14:29:15Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-13T14:00:00Z",
+      "category": "AI"
+    },
+    {
       "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
       "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
       "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
       "source": "TechCrunch",
       "published": "2026-11-13T13:15:20Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications co",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13T13:10:00Z",
+      "category": "Chips"
     },
     {
       "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
@@ -70,14 +174,6 @@
       "source": "TechCrunch",
       "published": "2026-11-13T12:52:19Z",
       "category": "Chips"
-    },
-    {
-      "title": "Microsoft’s massive Outlook outage continues",
-      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "source": "The Verge",
-      "published": "2026-11-13T12:48:03Z",
-      "category": "Big Tech"
     },
     {
       "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
@@ -1573,14 +1669,6 @@
       "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
       "source": "The Verge",
       "published": "2026-11-11T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising acro",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "source": "The Verge",
-      "published": "2026-11-11T15:53:55Z",
       "category": "Big Tech"
     },
     {
@@ -3149,94 +3237,6 @@
       "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
       "source": "TechCrunch",
       "published": "2026-11-09T18:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "James Gunn is out as DC movie leader",
-      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. Howe",
-      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "source": "The Verge",
-      "published": "2026-11-09T17:39:57Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about ho",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "source": "The Verge",
-      "published": "2026-11-09T17:36:08Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "source": "Ars Technica",
-      "published": "2026-11-09T17:24:26Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in settin",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-09T17:05:43Z",
-      "category": "Policy"
-    },
-    {
-      "title": "Developers can now build with Google Maps Platform in AI Studio.",
-      "summary": "Developers can now build with Google Maps Platform in AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-      "source": "Google Blog",
-      "published": "2026-11-09T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-      "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Uber wants to park your car now, too",
-      "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of ov",
-      "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-      "source": "The Verge",
-      "published": "2026-11-09T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T16:56:54Z",
-      "category": "AI"
-    },
-    {
-      "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
-      "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the ",
-      "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
-      "source": "The Verge",
-      "published": "2026-11-09T16:23:31Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T16:12:28Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "source": "The Verge",
-      "published": "2026-11-09T15:50:38Z",
       "category": "Big Tech"
     }
   ]
