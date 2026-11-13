@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:56:28.114960Z",
+  "updated_at": "2026-11-13T19:00:35.436334Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,19 +40,131 @@
   ],
   "items": [
     {
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T18:40:30Z",
+      "category": "Chips"
+    },
+    {
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available f",
+      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
       "source": "The Verge",
-      "published": "2026-11-13T15:49:27Z",
+      "published": "2026-11-13T18:10:41Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang was reckless with the environment, too",
+      "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "source": "The Verge",
+      "published": "2026-11-13T17:44:22Z",
+      "category": "Chips"
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T17:25:45Z",
+      "category": "AI"
+    },
+    {
+      "title": "The Microsoft Outage Is a Warning for the World",
+      "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
+      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+      "source": "Wired",
+      "published": "2026-11-13T17:15:54Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp S",
+      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+      "source": "The Verge",
+      "published": "2026-11-13T17:12:56Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Connect Google Wallet to Gemini for personal finance insights",
+      "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+      "source": "Google Blog",
+      "published": "2026-11-13T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "The new Apple TV has a YouTube problem",
+      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "source": "The Verge",
+      "published": "2026-11-13T16:55:57Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T16:26:32Z",
+      "category": "Cybersecurity"
     },
     {
       "title": "Microsoft’s massive Outlook outage continues",
       "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are r",
       "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
       "source": "The Verge",
-      "published": "2026-11-13T15:29:21Z",
+      "published": "2026-11-13T16:17:11Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T16:00:12Z",
+      "category": "AI"
+    },
+    {
+      "title": "The Verge’s 2026 gift guide for dads",
+      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source": "The Verge",
+      "published": "2026-11-13T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in ",
+      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-13T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "source": "Wired",
+      "published": "2026-11-13T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T15:58:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The best early Black Friday deals you can already shop",
+      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-13T15:49:27Z",
       "category": "Big Tech"
     },
     {
@@ -81,7 +193,7 @@
     },
     {
       "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
       "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
       "source": "TechCrunch",
       "published": "2026-11-13T14:57:55Z",
@@ -136,7 +248,7 @@
       "category": "AI"
     },
     {
-      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
       "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
       "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
       "source": "TechCrunch",
@@ -200,20 +312,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "source": "The Verge",
-      "published": "2026-11-13T12:00:00Z",
-      "category": "Chips"
-    },
-    {
       "title": "TCL QM7L Mini-LED TV Review (2026)",
       "summary": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup.",
       "url": "https://www.wired.com/review/tcl-qm7l/",
       "source": "Wired",
       "published": "2026-11-13T12:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge",
+      "published": "2026-11-13T12:00:00Z",
+      "category": "Chips"
     },
     {
       "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
@@ -328,14 +440,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Chatbooks Promo Code: 40% Off | November 2026",
-      "summary": "Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.",
-      "url": "https://www.wired.com/story/chatbooks-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-13T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Western Digital Promo Code: 15% Off",
       "summary": "Get 15% off your first order at Western Digital when you register your email.",
       "url": "https://www.wired.com/story/western-digital-promo-code/",
@@ -347,6 +451,14 @@
       "title": "Logitech Promo Codes and Deals: Up to $100 Off",
       "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
       "url": "https://www.wired.com/story/logitech-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-13T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Chatbooks Promo Code: 40% Off | November 2026",
+      "summary": "Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.",
+      "url": "https://www.wired.com/story/chatbooks-promo-code/",
       "source": "Wired",
       "published": "2026-11-13T06:00:00Z",
       "category": "Big Tech"
@@ -1064,22 +1176,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
-      "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
-      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
-      "source": "Wired",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-      "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
-      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
-      "source": "Wired",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Designing for privacy on intelligent eyewear",
       "summary": "Learn more about privacy protections on intelligent eyewear.",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
@@ -1094,6 +1190,22 @@
       "source": "Google Blog",
       "published": "2026-11-12T14:00:00Z",
       "category": "Chips"
+    },
+    {
+      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+      "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
+      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+      "source": "Wired",
+      "published": "2026-11-12T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+      "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+      "source": "Wired",
+      "published": "2026-11-12T14:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "The pricey new Apple TV 4K is still the best streamer around",
@@ -3125,118 +3237,6 @@
       "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
       "source": "Wired",
       "published": "2026-11-09T20:47:28Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T20:09:06Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "source": "Ars Technica",
-      "published": "2026-11-09T19:41:34Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-      "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:39:41Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-09T19:35:33Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:24:51Z",
-      "category": "AI"
-    },
-    {
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:21:46Z",
-      "category": "Startups"
-    },
-    {
-      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-      "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
-      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:19:24Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a bui",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "source": "The Verge",
-      "published": "2026-11-09T19:09:58Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-      "source": "Ars Technica",
-      "published": "2026-11-09T19:08:37Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "source": "The Verge",
-      "published": "2026-11-09T19:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of ",
-      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-09T18:35:25Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T18:09:52Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filte",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "source": "The Verge",
-      "published": "2026-11-09T18:07:23Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T18:00:00Z",
       "category": "Big Tech"
     }
   ]
