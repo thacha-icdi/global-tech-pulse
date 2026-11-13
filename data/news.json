@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:18:22.094004Z",
+  "updated_at": "2026-11-13T04:00:52.482965Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,14 @@
     }
   ],
   "items": [
+    {
+      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "Wired",
+      "published": "2026-11-13T01:17:49Z",
+      "category": "Chips"
+    },
     {
       "title": "Donald Trump really wants Tim Cook to run Nvidia",
       "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he ",
@@ -96,7 +104,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
       "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
       "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
       "source": "Ars Technica",
@@ -936,14 +944,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "HelloFresh Promo Codes: 55% Off for November 2026",
       "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in November 2026. Discover our best codes and discounts to let you save time and money.",
       "url": "https://www.wired.com/story/hellofresh-coupon/",
@@ -971,6 +971,14 @@
       "title": "Ruggable Discount Code: 30% Off Rugs | November 2026",
       "summary": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
       "url": "https://www.wired.com/story/ruggable-discount-code/",
+      "source": "Wired",
+      "published": "2026-11-12T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
       "source": "Wired",
       "published": "2026-11-12T06:00:00Z",
       "category": "Big Tech"
@@ -3229,14 +3237,6 @@
       "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
       "source": "The Verge",
       "published": "2026-11-09T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Tesla expands robotaxi service to San Antonio",
-      "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
-      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T11:30:24Z",
       "category": "Big Tech"
     }
   ]
