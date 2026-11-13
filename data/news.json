@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T07:25:56.139988Z",
+  "updated_at": "2026-11-13T10:08:02.467107Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,22 @@
     }
   ],
   "items": [
+    {
+      "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
+      "summary": "With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.",
+      "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+      "source": "Wired",
+      "published": "2026-11-13T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
+      "summary": "It’s not promoted very much, but Bitdefender’s stand-alone Antivirus Plus software is both effective and affordable.",
+      "url": "https://www.wired.com/review/bitdefender-antivirus-plus/",
+      "source": "Wired",
+      "published": "2026-11-13T10:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Gametime Promo Code: Save on Tickets in November 2026",
       "summary": "Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
@@ -3222,22 +3238,6 @@
       "source": "TechCrunch",
       "published": "2026-11-09T14:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
-      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T13:43:28Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and t",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-09T13:15:00Z",
-      "category": "Chips"
     }
   ]
 }
