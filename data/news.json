@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:52:11.960133Z",
+  "updated_at": "2026-11-14T21:45:05.774456Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first t",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "The Verge",
+      "published": "2026-11-14T21:44:44Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T21:41:22Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T20:04:44Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gatherin",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "source": "The Verge",
+      "published": "2026-11-14T19:47:40Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Got an iPhone Duo? These 9 settings make it easier to use",
       "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
@@ -3206,38 +3238,6 @@
       "source": "Wired",
       "published": "2026-11-10T14:00:00Z",
       "category": "AI"
-    },
-    {
-      "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
-      "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
-      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-      "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated fro",
-      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
     }
   ]
 }
