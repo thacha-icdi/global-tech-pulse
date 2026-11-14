@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T15:47:43.745294Z",
+  "updated_at": "2026-11-14T18:52:11.960133Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T18:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:45:04Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this wa",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "source": "The Verge",
+      "published": "2026-11-14T17:44:28Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:30:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T16:34:15Z",
+      "category": "Chips"
+    },
     {
       "title": "Here are our favorite deals from REI’s giant Holiday Sale",
       "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on",
@@ -128,17 +168,17 @@
       "category": "Chips"
     },
     {
-      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
-      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
-      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
       "source": "Wired",
       "published": "2026-11-14T11:30:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
-      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
+      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
       "source": "Wired",
       "published": "2026-11-14T11:30:00Z",
       "category": "Big Tech"
@@ -424,18 +464,18 @@
       "category": "AI"
     },
     {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and ",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-13T20:30:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Claim your Google Cloud Credits in Google AI Studio",
       "summary": "Claim your Google Cloud Credits in Google AI Studio",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
       "source": "Google Blog",
+      "published": "2026-11-13T20:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and ",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "source": "The Verge",
       "published": "2026-11-13T20:30:00Z",
       "category": "Big Tech"
     },
@@ -3197,46 +3237,6 @@
       "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
       "source": "The Verge",
       "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-      "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for ",
-      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Adobe is going all in on agentic AI",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removin",
-      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "source": "The Verge",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
-      "summary": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
-      "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
-      "source": "Wired",
-      "published": "2026-11-10T13:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T13:30:00Z",
       "category": "Big Tech"
     }
   ]
