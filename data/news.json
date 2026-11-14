@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:53:40.695022Z",
+  "updated_at": "2026-11-14T01:10:03.702167Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,8 +40,72 @@
   ],
   "items": [
     {
-      "title": "U.S. government grounds all flights across the United States ‘due to extraordinary cirumstances’",
-      "summary": "The Federal Aviation Administration grounded flights across the United States citing \"extraordinary circumstances\" and for \"reasons of safety.\"",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "source": "Ars Technica",
+      "published": "2026-11-14T00:49:13Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant ",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "published": "2026-11-13T23:49:11Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "FAA ground stop shuts down flights nationwide",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET th",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "published": "2026-11-13T23:47:27Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "FAA orders third nationwide ground stop in its history",
+      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T23:17:38Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T23:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T22:43:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Best Early Black Friday AirPods Deals (2026)",
+      "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
+      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+      "source": "Wired",
+      "published": "2026-11-13T22:30:29Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T21:59:01Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
       "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
       "source": "TechCrunch",
       "published": "2026-11-13T21:44:38Z",
@@ -49,18 +113,18 @@
     },
     {
       "title": "FAA Grounds All US Flights Until Further Notice",
-      "summary": "The government cited a nationwide communications failure among air traffic control system as the reason for the sudden grounding on Friday.",
+      "summary": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
       "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
       "source": "Wired",
       "published": "2026-11-13T21:42:57Z",
       "category": "Big Tech"
     },
     {
-      "title": "FAA ground stop shuts down flights nationwide",
-      "summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety.\" US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for al",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "published": "2026-11-13T21:38:25Z",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T21:20:47Z",
       "category": "Big Tech"
     },
     {
@@ -152,7 +216,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch",
@@ -178,7 +242,7 @@
     {
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "source": "Ars Technica",
       "published": "2026-11-13T17:25:45Z",
       "category": "AI"
@@ -186,7 +250,7 @@
     {
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "source": "Ars Technica",
       "published": "2026-11-13T17:25:45Z",
       "category": "AI"
@@ -248,18 +312,18 @@
       "category": "AI"
     },
     {
-      "title": "The Verge’s 2026 gift guide for dads",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "source": "The Verge",
-      "published": "2026-11-13T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Jensen Huang and the End of the Founder Fairy Tale",
       "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
       "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
       "source": "Wired",
+      "published": "2026-11-13T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Verge’s 2026 gift guide for dads",
+      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source": "The Verge",
       "published": "2026-11-13T16:00:00Z",
       "category": "Big Tech"
     },
@@ -369,7 +433,7 @@
     },
     {
       "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
       "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
       "source": "TechCrunch",
       "published": "2026-11-13T13:15:20Z",
@@ -3174,70 +3238,6 @@
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Breville Promo Code: $700 Off | November 2026",
-      "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
-      "url": "https://www.wired.com/story/breville-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "California’s proposed ‘billionaire tax’ fails to pass",
-      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it ",
-      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T05:18:43Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "source": "Wired",
-      "published": "2026-11-10T05:01:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T04:34:15Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T01:27:12Z",
-      "category": "AI"
-    },
-    {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out ",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "source": "The Verge",
-      "published": "2026-11-10T00:28:49Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "source": "Wired",
-      "published": "2026-11-10T00:18:19Z",
-      "category": "Chips"
-    },
-    {
-      "title": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential inves",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "source": "The Verge",
-      "published": "2026-11-09T23:51:58Z",
-      "category": "Chips"
     }
   ]
 }
