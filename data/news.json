@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:10:03.702167Z",
+  "updated_at": "2026-11-14T03:58:19.814728Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,22 @@
   ],
   "items": [
     {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just af",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "published": "2026-11-14T01:53:04Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The FAA Nationwide Ground Stop Is Over",
+      "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+      "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+      "source": "Wired",
+      "published": "2026-11-14T01:46:40Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
       "summary": "One way or another, the company will get some more data on Saturday.",
       "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
@@ -56,16 +72,8 @@
       "category": "Big Tech"
     },
     {
-      "title": "FAA ground stop shuts down flights nationwide",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET th",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "published": "2026-11-13T23:47:27Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "FAA orders third nationwide ground stop in its history",
-      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
       "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
       "source": "Ars Technica",
       "published": "2026-11-13T23:17:38Z",
@@ -3227,14 +3235,6 @@
       "title": "Casetify Promo Codes | 15% Off November 2026",
       "summary": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
       "url": "https://www.wired.com/story/casetify-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-10T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "source": "Wired",
       "published": "2026-11-10T06:00:00Z",
       "category": "Big Tech"
