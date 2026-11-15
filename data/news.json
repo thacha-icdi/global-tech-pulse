@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:45:05.774456Z",
+  "updated_at": "2026-11-15T01:15:19.919768Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,22 @@
     }
   ],
   "items": [
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "summary": "It felt like stepping into the future.",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "source": "Ars Technica",
+      "published": "2026-11-15T00:40:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak ",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T00:08:07Z",
+      "category": "Chips"
+    },
     {
       "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
       "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first t",
@@ -217,7 +233,7 @@
     },
     {
       "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
-      "summary": "Stock up on outdoor gear and gifts for friends at REI's annual holiday sale.",
+      "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
       "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
       "source": "Wired",
       "published": "2026-11-14T11:00:00Z",
@@ -256,17 +272,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
-      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
+      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
       "source": "Wired",
       "published": "2026-11-14T10:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
-      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
-      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
+      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
       "source": "Wired",
       "published": "2026-11-14T10:00:00Z",
       "category": "Big Tech"
@@ -3222,22 +3238,6 @@
       "source": "Wired",
       "published": "2026-11-10T14:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
-      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "AI"
     }
   ]
 }
