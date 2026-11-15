@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T09:54:14.302021Z",
+  "updated_at": "2026-11-15T13:01:03.611263Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,86 @@
     }
   ],
   "items": [
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes o",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "published": "2026-11-15T13:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "How the world’s fires changed while humanity hit pause",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "source": "Ars Technica",
+      "published": "2026-11-15T12:07:34Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+      "url": "https://www.wired.com/story/best-paper-planners/",
+      "source": "Wired",
+      "published": "2026-11-15T12:01:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "source": "Wired",
+      "published": "2026-11-15T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
+      "summary": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
+      "url": "https://www.wired.com/review/evercade-nexus/",
+      "source": "Wired",
+      "published": "2026-11-15T11:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+      "summary": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
+      "url": "https://www.wired.com/review/logitech-yeti-2/",
+      "source": "Wired",
+      "published": "2026-11-15T11:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "source": "Wired",
+      "published": "2026-11-15T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "It’s Getting Too Dry for Even Cactuses to Survive",
+      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
+      "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+      "source": "Wired",
+      "published": "2026-11-15T10:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "M6 Mac Mini Early Black Friday Sale (2026)",
+      "summary": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+      "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
+      "source": "Wired",
+      "published": "2026-11-15T10:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "summary": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+      "url": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+      "source": "Wired",
+      "published": "2026-11-15T10:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
       "summary": "It felt like stepping into the future.",
@@ -3157,86 +3237,6 @@
       "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
       "source": "TechCrunch",
       "published": "2026-11-10T15:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T14:53:05Z",
-      "category": "Chips"
-    },
-    {
-      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
-      "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
-      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T14:43:49Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-      "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on PCs, the web, Xbox consoles, and even TVs, it appears to be ",
-      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-      "source": "The Verge",
-      "published": "2026-11-10T14:37:09Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Polestar has a new look with its Formula 2030 concept",
-      "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
-      "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T14:22:02Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, accord",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "source": "The Verge",
-      "published": "2026-11-10T14:06:54Z",
-      "category": "AI"
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:05:10Z",
-      "category": "AI"
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T14:01:39Z",
-      "category": "AI"
-    },
-    {
-      "title": "40 years of American culinary history with the James Beard Foundation",
-      "summary": "A new Google Arts & Culture collaboration with the James Beard Foundation brings 10,000 menus to life.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
-      "source": "Google Blog",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google Blog",
-      "published": "2026-11-10T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "4DX Movies Are Entering Their Thirsty Romance Era",
-      "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
-      "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
-      "source": "Wired",
-      "published": "2026-11-10T14:00:00Z",
       "category": "Big Tech"
     }
   ]
