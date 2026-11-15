@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T18:53:30.918086Z",
+  "updated_at": "2026-11-15T21:47:05.074004Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far,",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "published": "2026-11-15T21:05:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "published": "2026-11-15T20:43:49Z",
+      "category": "Chips"
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T20:20:57Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "published": "2026-11-15T19:15:43Z",
+      "category": "Chips"
+    },
     {
       "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
       "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
@@ -169,7 +201,7 @@
     },
     {
       "title": "M6 Mac Mini Early Black Friday Sale (2026)",
-      "summary": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+      "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
       "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
       "source": "Wired",
       "published": "2026-11-15T10:00:00Z",
@@ -416,17 +448,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
-      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
+      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
       "source": "Wired",
       "published": "2026-11-14T10:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
-      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
-      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
+      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
       "source": "Wired",
       "published": "2026-11-14T10:00:00Z",
       "category": "Big Tech"
@@ -3206,38 +3238,6 @@
       "source": "Google Blog",
       "published": "2026-11-10T16:00:00Z",
       "category": "Cybersecurity"
-    },
-    {
-      "title": "Introducing the Multimodal Knowledge Agent benchmark",
-      "summary": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-      "source": "Google Blog",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "source": "Google Blog",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing 3 new domains: .eat, .fly, and .here",
-      "summary": "Google Registry launches .eat, .fly, and .here today. See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.",
-      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
-      "source": "Google Blog",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-      "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
-      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Big Tech"
     }
   ]
 }
