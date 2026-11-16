@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:47:05.074004Z",
+  "updated_at": "2026-11-16T01:32:10.041609Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T01:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvi",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "published": "2026-11-16T01:26:56Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics an",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T00:00:28Z",
+      "category": "AI"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T23:30:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "published": "2026-11-15T23:11:54Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T21:56:35Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks among their best. It doesn't have the se",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "source": "The Verge",
+      "published": "2026-11-15T21:49:22Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
       "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far,",
@@ -3182,62 +3238,6 @@
       "source": "TechCrunch",
       "published": "2026-11-10T17:04:19Z",
       "category": "Chips"
-    },
-    {
-      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-      "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
-      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T16:50:38Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
-      "summary": "MAGA failed because it didn’t go far enough, right-wing extremists say—and following devastating midterm losses, they see an opportunity to take over.",
-      "url": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
-      "source": "Wired",
-      "published": "2026-11-10T16:40:19Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "High oil prices have led to a dip in global carbon emissions",
-      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
-      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T16:29:27Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for s",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "source": "The Verge",
-      "published": "2026-11-10T16:20:30Z",
-      "category": "AI"
-    },
-    {
-      "title": "One space station company sues another for copying its work",
-      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T16:17:51Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + C",
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-10T16:00:03Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available for developers.",
-      "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
-      "source": "Google Blog",
-      "published": "2026-11-10T16:00:00Z",
-      "category": "Cybersecurity"
     }
   ]
 }
