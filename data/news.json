@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:22:36.473268Z",
+  "updated_at": "2026-11-16T08:54:58.272787Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,38 @@
     }
   ],
   "items": [
+    {
+      "title": "What teenagers really think about online safety and AI",
+      "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+      "source": "Google Blog",
+      "published": "2026-11-16T08:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Helping teens navigate online news and information",
+      "summary": "Rachel Huggins, CEO of Internet Matters, explains how UK teens navigate AI and online news, highlighting the need for media literacy support from educators, platforms, a…",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+      "source": "Google Blog",
+      "published": "2026-11-16T08:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Listening to teens on online safety",
+      "summary": "Will Gardner, CEO of Childnet, explains how teenagers are embracing AI creatively and responsibly, emphasising the vital role of listening to young voices when navigatin…",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+      "source": "Google Blog",
+      "published": "2026-11-16T08:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T07:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "summary": "Apple's new app for a study will answer everyday medical questions",
@@ -2416,20 +2448,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google Blog",
-      "published": "2026-11-11T18:00:00Z",
-      "category": "AI"
-    },
-    {
       "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
       "summary": "Henry Cavill’s “Mustache Protocol” is live. See how the game came together on Googlebook, and help us raise $500,000 for men’s health.",
       "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
       "source": "Google Blog",
       "published": "2026-11-11T18:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google Blog",
+      "published": "2026-11-11T18:00:00Z",
+      "category": "AI"
     },
     {
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
@@ -3206,38 +3238,6 @@
       "source": "TechCrunch",
       "published": "2026-11-10T17:30:00Z",
       "category": "AI"
-    },
-    {
-      "title": "Anthropic has its own AI-powered office suite now",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went throu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "source": "The Verge",
-      "published": "2026-11-10T17:30:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
-      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
-      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T17:26:44Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Introducing Google Fi’s new super network",
-      "summary": "Google Fi Wireless is launching a new super network, combining two 5G networks with millions of Wi-Fi networks in one phone plan.",
-      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
-      "source": "Google Blog",
-      "published": "2026-11-10T17:20:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T17:04:19Z",
-      "category": "Chips"
     }
   ]
 }
