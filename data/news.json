@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:54:58.272787Z",
+  "updated_at": "2026-11-16T10:44:48.432883Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+      "summary": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
+      "url": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+      "source": "Wired",
+      "published": "2026-11-16T10:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "What teenagers really think about online safety and AI",
       "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
@@ -536,17 +544,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
-      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
+      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
       "source": "Wired",
       "published": "2026-11-14T10:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
-      "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
-      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "summary": "Here’s how to get your bird and all the trimmings on a budget.",
+      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
       "source": "Wired",
       "published": "2026-11-14T10:00:00Z",
       "category": "Big Tech"
@@ -3230,14 +3238,6 @@
       "source": "The Verge",
       "published": "2026-11-10T17:32:39Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T17:30:00Z",
-      "category": "AI"
     }
   ]
 }
