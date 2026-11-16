@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T15:14:27.796594Z",
+  "updated_at": "2026-11-16T16:47:51.957735Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,142 @@
     }
   ],
   "items": [
+    {
+      "title": "AO3 Is Back. This Is Not a Drill",
+      "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
+      "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
+      "source": "Wired",
+      "published": "2026-11-16T16:40:33Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "summary": "International authorities will announce US lost its elimination status Tuesday.",
+      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "source": "Ars Technica",
+      "published": "2026-11-16T16:39:29Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang Is Gone. Now What?",
+      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "source": "Wired",
+      "published": "2026-11-16T16:12:51Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+      "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T16:06:30Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migra",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-16T16:04:28Z",
+      "category": "AI"
+    },
+    {
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T16:00:51Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to ",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T16:00:47Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints ",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T16:00:25Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists anal",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T16:00:16Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The Verge’s guide to the best gifts under $100",
+      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to ",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "source": "The Verge",
+      "published": "2026-11-16T16:00:14Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, ",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T16:00:11Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate mate",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T16:00:01Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+      "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordabili",
+      "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+      "source": "The Verge",
+      "published": "2026-11-16T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+      "summary": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.",
+      "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+      "source": "Wired",
+      "published": "2026-11-16T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New AI training performance benchmarks for Google TPUs",
+      "summary": "In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+      "source": "Google Blog",
+      "published": "2026-11-16T16:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T15:52:19Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Robert Pattinson is Amazon’s first James Bond",
+      "summary": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upc",
+      "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+      "source": "The Verge",
+      "published": "2026-11-16T15:19:34Z",
+      "category": "Big Tech"
+    },
     {
       "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
       "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
@@ -1968,25 +2104,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Meet the 2026 Google PhD Fellows",
-      "summary": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
       "source": "Google Blog",
       "published": "2026-11-12T17:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Get quick answers from Gemini on any website.",
-      "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
-      "source": "Google Blog",
-      "published": "2026-11-12T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Scientists are using Google AI to help restore giant kelp forests.",
-      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "title": "Meet the 2026 Google PhD Fellows",
+      "summary": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
       "source": "Google Blog",
       "published": "2026-11-12T17:00:00Z",
       "category": "Big Tech"
@@ -1998,6 +2126,14 @@
       "source": "Google Blog",
       "published": "2026-11-12T17:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Get quick answers from Gemini on any website.",
+      "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+      "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "AI"
     },
     {
       "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
@@ -2216,17 +2352,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Designing for privacy on intelligent eyewear",
-      "summary": "Learn more about privacy protections on intelligent eyewear.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+      "title": "See our intelligent eyewear lineup and pre-order your pair",
+      "summary": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
+      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
       "source": "Google Blog",
       "published": "2026-11-12T14:00:00Z",
       "category": "Chips"
     },
     {
-      "title": "See our intelligent eyewear lineup and pre-order your pair",
-      "summary": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
-      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+      "title": "Designing for privacy on intelligent eyewear",
+      "summary": "Learn more about privacy protections on intelligent eyewear.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
       "source": "Google Blog",
       "published": "2026-11-12T14:00:00Z",
       "category": "Chips"
@@ -3102,142 +3238,6 @@
       "source": "Wired",
       "published": "2026-11-11T06:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "OnePlus Promo Codes: 30% Off November 2026",
-      "summary": "Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.",
-      "url": "https://www.wired.com/story/oneplus-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
-      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
-      "url": "https://www.wired.com/story/noom-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Visible Promo Codes and Coupons for November 2026",
-      "summary": "Find great deals and promo codes for Visible at WIRED and save big, whether you're a long-time customer or a newbie.",
-      "url": "https://www.wired.com/story/visible-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
-      "summary": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this November 2026.",
-      "url": "https://www.wired.com/story/vivid-seats-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Factor Promo Code: 50% Off Off Meal Prep",
-      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this November 2026.",
-      "url": "https://www.wired.com/story/factor-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Squarespace Promo Codes: 20% Off in November 2026",
-      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "T-Mobile Promo Codes: 25% Off | November 2026",
-      "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
-      "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-11T03:00:20Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T01:02:13Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new ",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "source": "The Verge",
-      "published": "2026-11-11T00:34:24Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T23:30:56Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T23:02:39Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Best Early Amazon Black Friday Deals (2026)",
-      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
-      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "source": "Wired",
-      "published": "2026-11-10T22:42:06Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T22:35:01Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Bla",
-      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "source": "The Verge",
-      "published": "2026-11-10T22:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T21:55:26Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to del",
-      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "source": "The Verge",
-      "published": "2026-11-10T21:40:31Z",
-      "category": "Startups"
     }
   ]
 }
