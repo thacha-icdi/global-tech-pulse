@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T16:47:51.957735Z",
+  "updated_at": "2026-11-16T19:03:41.614859Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,12 +40,148 @@
   ],
   "items": [
     {
+      "title": "Island is a new screen-time app that turns staying off your phone into a game",
+      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T18:54:18Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Regional voices are rolling out in the Gemini app.",
+      "summary": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+      "source": "Google Blog",
+      "published": "2026-11-16T18:45:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it liste",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-16T18:38:47Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The era of autonomous attacks has arrived.",
+      "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-16T18:30:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
+      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday a",
+      "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+      "source": "The Verge",
+      "published": "2026-11-16T18:29:55Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
+      "summary": "Originally launching only with Touch ID, Apple's folding phone now borrows a feature from the new HomeView and can recognize your mug, but it's likely not as secure as Face ID.",
+      "url": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
+      "source": "Wired",
+      "published": "2026-11-16T18:26:26Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T18:21:14Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T18:11:10Z",
+      "category": "Chips"
+    },
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:36:43Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:10:00Z",
+      "category": "Startups"
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:02:43Z",
+      "category": "AI"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
+      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+      "source": "Wired",
+      "published": "2026-11-16T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "summary": "New Google AdMob AI tools help app developers fix setups fast, protect brand safety, and automate monetization in code.",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "source": "Google Blog",
+      "published": "2026-11-16T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+      "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is foc",
+      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-16T16:48:01Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "AO3 Is Back. This Is Not a Drill",
       "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
       "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
       "source": "Wired",
       "published": "2026-11-16T16:40:33Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back-",
+      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "source": "The Verge",
+      "published": "2026-11-16T16:39:36Z",
+      "category": "Chips"
     },
     {
       "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
@@ -177,7 +313,7 @@
     },
     {
       "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
       "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
       "source": "TechCrunch",
       "published": "2026-11-16T15:02:34Z",
@@ -297,7 +433,7 @@
     },
     {
       "title": "After dodging death, battery startup Our Next Energy is now going public",
-      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?",
       "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
       "source": "TechCrunch",
       "published": "2026-11-16T13:00:00Z",
@@ -312,20 +448,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "The Nvidia scandal isn’t slowing down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-i",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "source": "The Verge",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "Chips"
-    },
-    {
       "title": "Building AI that can work across the enterprise",
       "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and a",
       "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
       "source": "MIT Technology Review",
       "published": "2026-11-16T13:00:00Z",
       "category": "AI"
+    },
+    {
+      "title": "The Nvidia scandal isn’t slowing down",
+      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-i",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "source": "The Verge",
+      "published": "2026-11-16T13:00:00Z",
+      "category": "Chips"
     },
     {
       "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
@@ -384,18 +520,18 @@
       "category": "Big Tech"
     },
     {
-      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
-      "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from C",
-      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
-      "source": "The Verge",
-      "published": "2026-11-16T11:00:00Z",
-      "category": "Chips"
-    },
-    {
       "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
       "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
       "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
       "source": "Wired",
+      "published": "2026-11-16T11:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from C",
+      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "source": "The Verge",
       "published": "2026-11-16T11:00:00Z",
       "category": "Chips"
     },
@@ -944,14 +1080,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Disney Plus Discount Codes: 52% Off November 2026",
-      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-      "url": "https://www.wired.com/story/disney-plus-discounts/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "30% Off Canon Promo Codes | November 2026",
       "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
       "url": "https://www.wired.com/story/canon-promo-code/",
@@ -963,6 +1091,14 @@
       "title": "Wayfair Coupons: Up to 80% Off November 2026",
       "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
       "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-14T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Disney Plus Discount Codes: 52% Off November 2026",
+      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
       "source": "Wired",
       "published": "2026-11-14T06:00:00Z",
       "category": "Big Tech"
@@ -2016,14 +2152,6 @@
       "category": "AI"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "source": "Google Blog",
-      "published": "2026-11-12T18:00:00Z",
-      "category": "AI"
-    },
-    {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -2035,6 +2163,14 @@
       "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
       "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "source": "Google Blog",
+      "published": "2026-11-12T18:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "source": "Google Blog",
       "published": "2026-11-12T18:00:00Z",
       "category": "AI"
@@ -2104,22 +2240,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Scientists are using Google AI to help restore giant kelp forests.",
-      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
-      "source": "Google Blog",
-      "published": "2026-11-12T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Meet the 2026 Google PhD Fellows",
-      "summary": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-12T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
       "summary": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. Check your eligibility today.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
@@ -2134,6 +2254,22 @@
       "source": "Google Blog",
       "published": "2026-11-12T17:00:00Z",
       "category": "AI"
+    },
+    {
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meet the 2026 Google PhD Fellows",
+      "summary": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
@@ -3101,142 +3237,6 @@
       "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
       "source": "The Verge",
       "published": "2026-11-11T12:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple is killing its Support Community forum next week",
-      "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the com",
-      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "source": "The Verge",
-      "published": "2026-11-11T12:19:10Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
-      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
-      "url": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
-      "source": "Wired",
-      "published": "2026-11-11T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
-      "summary": "Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.",
-      "url": "https://www.wired.com/story/best-oled-tv/",
-      "source": "Wired",
-      "published": "2026-11-11T11:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
-      "summary": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.",
-      "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
-      "source": "Wired",
-      "published": "2026-11-11T11:15:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
-      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
-      "url": "https://www.wired.com/gallery/best-air-purifiers/",
-      "source": "Wired",
-      "published": "2026-11-11T11:02:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-      "source": "Wired",
-      "published": "2026-11-11T11:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
-      "summary": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.",
-      "url": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
-      "source": "Wired",
-      "published": "2026-11-11T10:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Early Black Friday Deals Under $100 (2026)",
-      "summary": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
-      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/",
-      "source": "Wired",
-      "published": "2026-11-11T10:12:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini",
-      "summary": "Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs.",
-      "url": "https://www.wired.com/gallery/the-best-ipad/",
-      "source": "Wired",
-      "published": "2026-11-11T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers",
-      "summary": "Some users have noticed a new “frequent viewer” label that reveals who repeatedly views their profiles.",
-      "url": "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/",
-      "source": "Wired",
-      "published": "2026-11-11T10:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "source": "Google Blog",
-      "published": "2026-11-11T09:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T07:30:51Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Home Depot Promo Codes: 30% Off in November 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this November.",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Best Buy Discount Codes: 60% Off",
-      "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
-      "url": "https://www.wired.com/story/best-buy-discount-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google Workspace Promo Codes: 14% Off for November 2026",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-11T06:00:00Z",
       "category": "Big Tech"
     }
   ]
