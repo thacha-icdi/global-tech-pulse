@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:18:39.531051Z",
+  "updated_at": "2026-11-17T16:03:59.415048Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,17 +40,241 @@
   ],
   "items": [
     {
-      "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
-      "summary": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned. The rollout comes after Uber ",
-      "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
+      "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+      "summary": "After first announcing its Flipper One last May which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device",
+      "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
       "source": "The Verge",
-      "published": "2026-11-17T13:00:00Z",
+      "published": "2026-11-17T16:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "The Verge Best of 2026",
-      "summary": "Hundreds of gadgets pass across our desks each year. Some leave their mark and get a full review or make it to the top of a buying guide. It's harder than it sounds to narrow down our favorites. Instead of simply picking products that scored highly, or only th",
-      "url": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
+      "title": "Scoop up three great 4K Blu-ray movies for $33",
+      "summary": "Gruv always keeps its proverbial fire hose of deals on movies running with a steady stream throughout the year, but the online seller operated by Universal Pictures is really letting it rip now ahead of Black Friday. The site has a page filled with 4K Blu-rays",
+      "url": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-17T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Kalshi moves into a new kind of gambling: the stock market",
+      "summary": "Kalshi is getting ready to offer stock trading on its platform, according to reports from The Wall Street Journal and CNBC. The company reportedly plans to use its acquisition of broker FB Securities to launch equities and exchange-traded funds \"within the nex",
+      "url": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
+      "source": "The Verge",
+      "published": "2026-11-17T15:35:32Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "House Democrats promise a US return to global climate talks",
+      "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T15:32:43Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T15:28:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
+      "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T15:07:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
+      "summary": "The first season of Netflix's 3 Body Problem series ended with the remaining members of the Oxford Five disillusioned at the idea of humanity being utterly unprepared to deal with the San-Ti's arrival on Earth. But in the first trailer for the show's upcoming ",
+      "url": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
+      "source": "The Verge",
+      "published": "2026-11-17T15:04:20Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta launches Direct, a standalone messaging app for Instagram",
+      "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+      "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T15:01:46Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+      "summary": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos.",
+      "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T15:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Google Play unveils the best apps, games, and books of 2026",
+      "summary": "We’re announcing Google Play’s Best of 2026 awards, celebrating the best apps, games, and books of the year.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-17T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The best of Google Play in Asia Pacific",
+      "summary": "Here are the winners of Google Play’s Best of 2026 awards in Asia Pacific.",
+      "url": "https://blog.google/topics/google-asia/google-play-best-2026/",
+      "source": "Google Blog",
+      "published": "2026-11-17T15:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:50:58Z",
+      "category": "AI"
+    },
+    {
+      "title": "This E Ink photo frame can double as your family’s digital dashboard",
+      "summary": "Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that's also well suited for showing artwork and photos. It's not the company's first",
+      "url": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
+      "source": "The Verge",
+      "published": "2026-11-17T14:49:21Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below.",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-17T14:39:46Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
+      "summary": "Radio and TV broadcasts will be interrupted for about one minute at 2:20PM ET today while FEMA and the FCC test the country's Emergency Alert System. Unlike recent communications outages, this is a planned interruption that FEMA is required to run every three ",
+      "url": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
+      "source": "The Verge",
+      "published": "2026-11-17T14:28:24Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:26:46Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
+      "summary": "Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn’t mean the streaming device isn’t still good value. In fact, it’s an even more attractive option now",
+      "url": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-17T14:25:07Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:05:30Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T14:00:29Z",
+      "category": "AI"
+    },
+    {
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+      "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
+      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:00:00Z",
+      "category": "Startups"
+    },
+    {
+      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+      "summary": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken.\"",
+      "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Windows 11 actually runs better on 8GB of RAM now",
+      "summary": "As recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this year, 8GB is once again typical for a starting conf",
+      "url": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
+      "source": "The Verge",
+      "published": "2026-11-17T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
+      "summary": "Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.",
+      "url": "https://www.wired.com/review/xreal-aura/",
+      "source": "Wired",
+      "published": "2026-11-17T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Celebrate 100 years of Colonial Williamsburg online",
+      "summary": "Tour reconstructed landmarks, flip through 18th-century newspapers, and watch a historic dessert come to life with Google Arts & Culture.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
+      "source": "Google Blog",
+      "published": "2026-11-17T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Disney Plus and Hulu’s fully unified app arrives next month",
+      "summary": "Disney Plus and Hulu will officially become one app next month. As part of its earnings report released on Tuesday, Disney announced that bundle subscribers \"will have a fully unified experience\" on Disney Plus with access to Hulu's live TV service and premium",
+      "url": "https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026",
+      "source": "The Verge",
+      "published": "2026-11-17T13:46:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more tha",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-17T13:10:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
+      "summary": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned. The rollout comes after Uber ",
+      "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
       "source": "The Verge",
       "published": "2026-11-17T13:00:00Z",
       "category": "Big Tech"
@@ -60,6 +284,14 @@
       "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
       "url": "https://www.wired.com/story/best-laptops/",
       "source": "Wired",
+      "published": "2026-11-17T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Verge Best of 2026",
+      "summary": "Hundreds of gadgets pass across our desks each year. Some leave their mark and get a full review or make it to the top of a buying guide. It's harder than it sounds to narrow down our favorites. Instead of simply picking products that scored highly, or only th",
+      "url": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
+      "source": "The Verge",
       "published": "2026-11-17T13:00:00Z",
       "category": "Big Tech"
     },
@@ -80,12 +312,28 @@
       "category": "Big Tech"
     },
     {
+      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
       "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
       "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
       "source": "Wired",
       "published": "2026-11-17T11:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "AI"
     },
     {
       "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
@@ -102,22 +350,6 @@
       "source": "Wired",
       "published": "2026-11-17T11:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-      "source": "Wired",
-      "published": "2026-11-17T11:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "source": "Wired",
-      "published": "2026-11-17T11:00:00Z",
-      "category": "AI"
     },
     {
       "title": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
@@ -616,22 +848,6 @@
       "category": "AI"
     },
     {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
       "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
       "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
@@ -644,6 +860,22 @@
       "summary": "New Google AdMob AI tools help app developers fix setups fast, protect brand safety, and automate monetization in code.",
       "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
       "source": "Google Blog",
+      "published": "2026-11-16T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "source": "TechCrunch",
       "published": "2026-11-16T17:00:00Z",
       "category": "Big Tech"
     },
@@ -2512,14 +2744,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T19:59:59Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
       "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
       "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
@@ -2648,6 +2872,14 @@
       "category": "AI"
     },
     {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "Google Blog",
+      "published": "2026-11-12T18:00:00Z",
+      "category": "AI"
+    },
+    {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -2659,14 +2891,6 @@
       "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
       "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-      "source": "Google Blog",
-      "published": "2026-11-12T18:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "source": "Google Blog",
       "published": "2026-11-12T18:00:00Z",
       "category": "AI"
@@ -3013,230 +3237,6 @@
       "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
       "source": "Wired",
       "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-      "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
-      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
-      "source": "Wired",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The pricey new Apple TV 4K is still the best streamer around",
-      "summary": "I'm sitting in front of my TV, puppy nuzzled up next to me, with four HomePods spread around my living room - two flanking my TV and one at either end of my couch - connected to the brand new Apple TV 4K. Young Anakin Skywalker hits the throttle and flies thro",
-      "url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
-      "source": "The Verge",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
-      "summary": "It's a weird time to launch a new pair of smart glasses. These last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence. Unfortunately, its privacy reputation led to the \"pervert glasses\" moniker. Smart glasses have never",
-      "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
-      "summary": "The HomeView nails everything I want from a smart display. It's superb at controlling my smart home; it's an excellent hands-free kitchen companion, a good speaker, and a gorgeous digital photo frame. It's also the first Apple smart speaker with Siri AI, which",
-      "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
-      "source": "The Verge",
-      "published": "2026-11-12T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "source": "Wired",
-      "published": "2026-11-12T13:58:06Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-      "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesda",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-      "source": "The Verge",
-      "published": "2026-11-12T13:53:16Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
-      "summary": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone.",
-      "url": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
-      "source": "Wired",
-      "published": "2026-11-12T13:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T13:26:25Z",
-      "category": "Chips"
-    },
-    {
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antaly",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-12T13:10:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
-      "summary": "Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
-      "url": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
-      "source": "Google Blog",
-      "published": "2026-11-12T13:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-      "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
-      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T12:00:37Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
-      "summary": "A new report finds that a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators.",
-      "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
-      "source": "Wired",
-      "published": "2026-11-12T11:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, wit",
-      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-      "source": "The Verge",
-      "published": "2026-11-12T11:12:32Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
-      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-      "source": "Wired",
-      "published": "2026-11-12T10:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-      "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
-      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
-      "source": "Wired",
-      "published": "2026-11-12T10:15:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
-      "summary": "Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic.",
-      "url": "https://www.wired.com/review/rocco-super-smart-fridge/",
-      "source": "Wired",
-      "published": "2026-11-12T10:08:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
-      "summary": "These Arctic currents have never broken down so early in the season. Combined with an unprecedented El Niño, the outcomes aren’t easy to predict.",
-      "url": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
-      "source": "Wired",
-      "published": "2026-11-12T08:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "TurboTax Full Service Coupons This November 2026",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Lovehoney Coupon Offers: 70% Off",
-      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-      "url": "https://www.wired.com/story/lovehoney-discount-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Lenovo Coupon Codes: 15% Off in November 2026",
-      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "url": "https://www.wired.com/story/lenovo-coupon-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "HelloFresh Promo Codes: 55% Off for November 2026",
-      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in November 2026. Discover our best codes and discounts to let you save time and money.",
-      "url": "https://www.wired.com/story/hellofresh-coupon/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Hydrow Discount Code: Save Up to $150 | November 2026",
-      "summary": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
-      "url": "https://www.wired.com/story/hydrow-discount-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
-      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ruggable Discount Code: 30% Off Rugs | November 2026",
-      "summary": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
-      "url": "https://www.wired.com/story/ruggable-discount-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Ring Promo Code: 50% Off",
-      "summary": "Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.",
-      "url": "https://www.wired.com/story/ring-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "L.L.Bean Promo Codes and Coupons: 75% Off",
-      "summary": "Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.",
-      "url": "https://www.wired.com/story/ll-bean-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Acer Promo Codes: 40% Off",
-      "summary": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
-      "url": "https://www.wired.com/story/acer-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
       "category": "Big Tech"
     }
   ]
