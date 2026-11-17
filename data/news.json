@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:55:55.489304Z",
+  "updated_at": "2026-11-17T01:20:19.919329Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,8 +40,88 @@
   ],
   "items": [
     {
+      "title": "The 8 Best Movies to Stream Right Now (November 2026)",
+      "summary": "Arco, Backrooms, and Godzilla Minus One are among the films deserving of your eyeballs this month.",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "source": "Wired",
+      "published": "2026-11-17T00:58:05Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE some",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "source": "The Verge",
+      "published": "2026-11-16T23:35:58Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T23:32:32Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silico",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "source": "The Verge",
+      "published": "2026-11-16T23:17:34Z",
+      "category": "Chips"
+    },
+    {
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-16T23:00:05Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "source": "Ars Technica",
+      "published": "2026-11-16T22:58:27Z",
+      "category": "Startups"
+    },
+    {
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier toda",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "source": "The Verge",
+      "published": "2026-11-16T22:54:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T22:12:31Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T22:03:02Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Three small failures combined to take down Microsoft 365",
+      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "source": "Ars Technica",
+      "published": "2026-11-16T21:56:39Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "The Bank Outage May Have Nothing to Do With Your Bank",
-      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a “technical issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
+      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
       "url": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
       "source": "Wired",
       "published": "2026-11-16T21:45:45Z",
@@ -73,7 +153,7 @@
     },
     {
       "title": "California sues OpenAI over rogue AI hacking incidents",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly develop",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
       "source": "The Verge",
       "published": "2026-11-16T20:46:01Z",
@@ -88,7 +168,7 @@
       "category": "AI"
     },
     {
-      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
       "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
       "source": "Ars Technica",
@@ -129,7 +209,7 @@
     },
     {
       "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "source": "TechCrunch",
       "published": "2026-11-16T20:07:13Z",
@@ -161,7 +241,7 @@
     },
     {
       "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
       "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
       "source": "TechCrunch",
       "published": "2026-11-16T19:53:00Z",
@@ -288,15 +368,15 @@
       "category": "Big Tech"
     },
     {
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
       "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
       "source": "TechCrunch",
       "published": "2026-11-16T18:21:14Z",
       "category": "Big Tech"
     },
     {
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "source": "TechCrunch",
@@ -568,14 +648,6 @@
       "category": "Big Tech"
     },
     {
-      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
-      "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
-      "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "How to find the best Black Friday deals and shop smarter",
       "summary": "Track price drops, organize your cart, and find thoughtful gifts faster this Black Friday and Cyber Monday with these Google tools.",
       "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
@@ -616,6 +688,14 @@
       "category": "AI"
     },
     {
+      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+      "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+      "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
       "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and autho",
       "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
@@ -640,6 +720,14 @@
       "category": "Big Tech"
     },
     {
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and a",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-16T13:00:00Z",
+      "category": "AI"
+    },
+    {
       "title": "After dodging death, battery startup Our Next Energy is now going public",
       "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?",
       "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
@@ -654,14 +742,6 @@
       "source": "TechCrunch",
       "published": "2026-11-16T13:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and a",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "AI"
     },
     {
       "title": "The Nvidia scandal isn’t slowing down",
@@ -712,17 +792,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
+      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
+      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
       "source": "Wired",
       "published": "2026-11-16T11:30:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
+      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
+      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
       "source": "Wired",
       "published": "2026-11-16T11:30:00Z",
       "category": "Big Tech"
@@ -1800,7 +1880,7 @@
       "category": "Chips"
     },
     {
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting rad",
       "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
       "source": "NVIDIA Blog",
@@ -3157,86 +3237,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
       "source": "Ars Technica",
       "published": "2026-11-11T18:05:26Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
-      "summary": "Henry Cavill’s “Mustache Protocol” is live. See how the game came together on Googlebook, and help us raise $500,000 for men’s health.",
-      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
-      "source": "Google Blog",
-      "published": "2026-11-11T18:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google Blog",
-      "published": "2026-11-11T18:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T17:37:32Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck",
-      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-      "source": "The Verge",
-      "published": "2026-11-11T17:09:58Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
-      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-      "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
-      "source": "Wired",
-      "published": "2026-11-11T17:08:14Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "summary": "Apple has already made the forum read-only.",
-      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T17:04:26Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "What to know about this year’s UN climate talks",
-      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-11T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
-      "summary": "In our Security 2027 analysis, leaders from across Google, Google Cloud, and Mandiant break down the critical trends shaping the next era of defense.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
-      "source": "Google Blog",
-      "published": "2026-11-11T17:00:00Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "Google’s ongoing commitment to the veteran community",
-      "summary": "On Veterans’ Day 2026, we’re spotlighting how Google invests in career pathways for veterans and the military community.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-11T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
-      "source": "Google Blog",
-      "published": "2026-11-11T17:00:00Z",
       "category": "Big Tech"
     }
   ]
