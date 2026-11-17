@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T07:28:26.083556Z",
+  "updated_at": "2026-11-17T10:16:33.051073Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
+      "summary": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
+      "url": "https://www.wired.com/story/do-you-need-a-smart-car-seat/",
+      "source": "Wired",
+      "published": "2026-11-17T10:06:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Oobah Butler Can Sell You Anything—If You’re a Rich Idiot",
+      "summary": "In an exclusive interview, the stunt journalist talks about his new HBO show, where he dreams up grifting schemes to lampoon some of the world’s most opulent—and gullible—industries.",
+      "url": "https://www.wired.com/story/oobah-butler-exclusive-interview-scams-for-a-better-tomorrow/",
+      "source": "Wired",
+      "published": "2026-11-17T08:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Chewy Promo Codes: 25% Off November 2026",
       "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
@@ -3222,22 +3238,6 @@
       "source": "The Verge",
       "published": "2026-11-11T21:54:21Z",
       "category": "AI"
-    },
-    {
-      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T20:32:21Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
-      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T20:22:03Z",
-      "category": "Big Tech"
     }
   ]
 }
