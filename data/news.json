@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T10:16:33.051073Z",
+  "updated_at": "2026-11-17T13:18:39.531051Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,110 @@
     }
   ],
   "items": [
+    {
+      "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
+      "summary": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned. The rollout comes after Uber ",
+      "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
+      "source": "The Verge",
+      "published": "2026-11-17T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Verge Best of 2026",
+      "summary": "Hundreds of gadgets pass across our desks each year. Some leave their mark and get a full review or make it to the top of a buying guide. It's harder than it sounds to narrow down our favorites. Instead of simply picking products that scored highly, or only th",
+      "url": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
+      "source": "The Verge",
+      "published": "2026-11-17T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "source": "Wired",
+      "published": "2026-11-17T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Artist brings old Space Shuttle tank back to life",
+      "summary": "\"It's definitely the largest art project I've ever worked on.\"",
+      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T12:15:54Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
+      "summary": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
+      "url": "https://www.wired.com/review/capillus-hairband/",
+      "source": "Wired",
+      "published": "2026-11-17T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+      "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+      "summary": "Throughout the past year, the children’s entertainer has called for grown-ups to do more to stand up for children everywhere, from ICE detention centers to Gaza.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Congratulations to WIRED’s Class of 2026",
+      "summary": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
+      "summary": "Backrooms started as a 4chan meme. Obsession came from someone who got his start in online sketch comedy. They both got people back into theaters—and it’s just the beginning.",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-youtube-directors/",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "source": "Wired",
+      "published": "2026-11-17T10:47:45Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
+      "summary": "The electric-auto maker says it has invited some buyers to reserve a personal robotaxi. The arrangement raises big questions about the future of car ownership.",
+      "url": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "source": "Wired",
+      "published": "2026-11-17T10:15:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
       "summary": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
@@ -296,18 +400,18 @@
       "category": "Big Tech"
     },
     {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a seri",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "source": "The Verge",
-      "published": "2026-11-16T20:27:58Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
       "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
       "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
       "source": "Ars Technica",
+      "published": "2026-11-16T20:27:58Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "US data centers now burn more electricity than a midsized country",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a seri",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "source": "The Verge",
       "published": "2026-11-16T20:27:58Z",
       "category": "Big Tech"
     },
@@ -896,17 +1000,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
+      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
+      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
       "source": "Wired",
       "published": "2026-11-16T11:30:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
+      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
+      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
       "source": "Wired",
       "published": "2026-11-16T11:30:00Z",
       "category": "Big Tech"
@@ -3134,110 +3238,6 @@
       "source": "Wired",
       "published": "2026-11-12T06:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
-      "summary": "Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
-      "url": "https://www.wired.com/story/vitamix-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Design Within Reach Promo Codes: 30% Off | November 2026",
-      "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "SelectBlinds Promo Codes & Coupons: 10% Off",
-      "summary": "Redecorate your home for less with our expert tips on applying SelectBlinds coupons, maximizing holiday sales, and locking in new customer discounts.",
-      "url": "https://www.wired.com/story/select-blinds-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-12T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T03:13:10Z",
-      "category": "Chips"
-    },
-    {
-      "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
-      "summary": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.",
-      "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
-      "source": "Wired",
-      "published": "2026-11-12T02:33:02Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
-      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
-      "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
-      "source": "Wired",
-      "published": "2026-11-12T01:53:24Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:50:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:28:45Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:17:05Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal re",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "source": "The Verge",
-      "published": "2026-11-11T22:44:36Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Pete Hegseth Is About to Get His Ass Kicked",
-      "summary": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
-      "url": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
-      "source": "Wired",
-      "published": "2026-11-11T22:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-11T22:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge",
-      "published": "2026-11-11T21:54:21Z",
-      "category": "AI"
     }
   ]
 }
