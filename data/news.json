@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T20:29:13.694334Z",
+  "updated_at": "2026-11-19T02:33:03.504973Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,206 @@
     }
   ],
   "items": [
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T00:42:56Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T00:40:49Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
+      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "source": "Wired",
+      "published": "2026-11-19T00:23:15Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T23:45:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T23:25:17Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "source": "Ars Technica",
+      "published": "2026-11-18T23:25:04Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to d",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge",
+      "published": "2026-11-18T23:18:35Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T23:17:28Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "source": "Ars Technica",
+      "published": "2026-11-18T23:10:39Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:58:11Z",
+      "category": "AI"
+    },
+    {
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "url": "https://www.wired.com/story/guys-really-we-got-this/",
+      "source": "Wired",
+      "published": "2026-11-18T22:16:23Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:11:15Z",
+      "category": "AI"
+    },
+    {
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "source": "Ars Technica",
+      "published": "2026-11-18T22:08:57Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "source": "The Verge",
+      "published": "2026-11-18T22:05:48Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:04:03Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "source": "Wired",
+      "published": "2026-11-18T22:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T21:57:40Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T21:34:13Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T21:31:21Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "source": "Ars Technica",
+      "published": "2026-11-18T21:29:24Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Absolute Batman can save DC Studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man ",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "source": "The Verge",
+      "published": "2026-11-18T21:20:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "source": "Wired",
+      "published": "2026-11-18T21:15:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Today, we’re introducing Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "source": "Google Blog",
+      "published": "2026-11-18T21:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "source": "Ars Technica",
+      "published": "2026-11-18T20:41:12Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T20:07:01Z",
+      "category": "Big Tech"
+    },
     {
       "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
       "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
@@ -88,7 +288,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost",
       "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "source": "The Verge",
@@ -137,7 +337,7 @@
     },
     {
       "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S even higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like L",
+      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like Le",
       "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
       "source": "The Verge",
       "published": "2026-11-18T19:11:50Z",
@@ -264,7 +464,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday",
+      "title": "The MacBook Neo Is on Sale Ahead of Black Friday (2026)",
       "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649.",
       "url": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
       "source": "Wired",
@@ -273,7 +473,7 @@
     },
     {
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
       "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
       "source": "Wired",
       "published": "2026-11-18T17:33:07Z",
@@ -464,20 +664,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T12:00:00Z",
-      "category": "AI"
-    },
-    {
       "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
       "summary": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
       "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
       "source": "Wired",
       "published": "2026-11-18T12:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T12:00:00Z",
+      "category": "AI"
     },
     {
       "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
@@ -488,20 +688,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T11:30:00Z",
-      "category": "Startups"
-    },
-    {
       "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
       "summary": "The best part of GTA isn’t the hyperviolence or the driving. It’s the friends and family we explode along the way.",
       "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
       "source": "Wired",
       "published": "2026-11-18T11:30:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T11:30:00Z",
+      "category": "Startups"
     },
     {
       "title": "Early Black Friday Deals Under $100 (2026)",
@@ -544,20 +744,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "China dominates battery graphite, but this startup could break the monopoly",
-      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T11:00:00Z",
-      "category": "Startups"
-    },
-    {
       "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
       "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
       "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
       "source": "Wired",
       "published": "2026-11-18T11:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "source": "TechCrunch",
+      "published": "2026-11-18T11:00:00Z",
+      "category": "Startups"
     },
     {
       "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
@@ -640,17 +840,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Birdfy Discount Codes: 15% Off Sitewide",
-      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
-      "url": "https://www.wired.com/story/birdfy-discount-code/",
+      "title": "Loop Earplugs Discount Codes: 25% Off",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
       "source": "Wired",
       "published": "2026-11-18T06:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "Loop Earplugs Discount Codes: 25% Off",
-      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "title": "Birdfy Discount Codes: 15% Off Sitewide",
+      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "url": "https://www.wired.com/story/birdfy-discount-code/",
       "source": "Wired",
       "published": "2026-11-18T06:00:00Z",
       "category": "Big Tech"
@@ -3037,206 +3237,6 @@
       "url": "https://www.wired.com/story/wayfair-promo-code/",
       "source": "Wired",
       "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Disney Plus Discount Codes: 52% Off November 2026",
-      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-      "url": "https://www.wired.com/story/disney-plus-discounts/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Klook Promo Code: 20% Off November 2026",
-      "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
-      "url": "https://www.wired.com/story/klook-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "LG Promo Codes and Coupons 20% Off for November 2026",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Whoop Promo Codes: 20% Off This November 2026",
-      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
-      "url": "https://www.wired.com/story/whoop-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "20% Off Samsung Promo Code | November 2026",
-      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "url": "https://www.wired.com/story/samsung-promo-codes/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Tuft & Needle Promo Codes: 20% Off | November 2026",
-      "summary": "Save 30% on best-selling mattresses with our top Tuft & Needle coupon codes.",
-      "url": "https://www.wired.com/story/tuft-and-needle-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Womanizer Coupons: Save 15% in November 2026",
-      "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
-      "url": "https://www.wired.com/story/womanizer-coupon/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "ABT Promo Codes & Discounts for November 2026",
-      "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in November 2026.",
-      "url": "https://www.wired.com/story/abt-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "PlayStation Discount Code: 15% Off | November 2026",
-      "summary": "Want to stretch your gaming budget? Learn how to unlock massive savings on PS5 games, DualSense controllers, and PlayStation Plus memberships using gift cards and exclusive promotional codes.",
-      "url": "https://www.wired.com/story/playstation-discount-code/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Adidas Promo Code | 60% Off | November 2026",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-14T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it w",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "published": "2026-11-14T01:53:04Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The FAA Nationwide Ground Stop Is Over",
-      "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
-      "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
-      "source": "Wired",
-      "published": "2026-11-14T01:46:40Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "summary": "One way or another, the company will get some more data on Saturday.",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "source": "Ars Technica",
-      "published": "2026-11-14T00:49:13Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant ",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "source": "The Verge",
-      "published": "2026-11-13T23:49:11Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T23:17:38Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T23:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T22:43:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Best Early Black Friday AirPods Deals (2026)",
-      "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
-      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
-      "source": "Wired",
-      "published": "2026-11-13T22:30:29Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
-      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T21:59:01Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T21:44:38Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "FAA Grounds All US Flights Until Further Notice",
-      "summary": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
-      "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
-      "source": "Wired",
-      "published": "2026-11-13T21:42:57Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T21:20:47Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "published": "2026-11-13T20:45:10Z",
-      "category": "AI"
-    },
-    {
-      "title": "Claim your Google Cloud Credits in Google AI Studio",
-      "summary": "Claim your Google Cloud Credits in Google AI Studio",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
-      "source": "Google Blog",
-      "published": "2026-11-13T20:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and ",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-13T20:30:00Z",
       "category": "Big Tech"
     }
   ]
