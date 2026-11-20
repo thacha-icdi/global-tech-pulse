@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T11:36:24.423441Z",
+  "updated_at": "2026-11-20T20:15:21.178567Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,342 @@
     }
   ],
   "items": [
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T19:53:41Z",
+      "category": "Startups"
+    },
+    {
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T19:52:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired",
+      "published": "2026-11-20T19:52:21Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a ",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "source": "The Verge",
+      "published": "2026-11-20T19:35:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T19:32:08Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T19:21:50Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Be",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-20T19:15:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies t",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "published": "2026-11-20T18:50:19Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T18:34:00Z",
+      "category": "Startups"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-20T18:15:15Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-20T18:15:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on Ja",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
+      "published": "2026-11-20T18:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Internet Archive Staffers Are Unionizing",
+      "summary": "A supermajority of eligible workers at the nonprofit digital library voted in favor of joining the Communications Workers of America.",
+      "url": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/",
+      "source": "Wired",
+      "published": "2026-11-20T18:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Get your year-end tasks done with new Connected Apps.",
+      "summary": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+      "source": "Google Blog",
+      "published": "2026-11-20T18:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Chips can survive the space environment — can their financing?",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T17:40:01Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensi",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-20T17:33:59Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the ",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "source": "The Verge",
+      "published": "2026-11-20T17:05:52Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
+      "source": "Wired",
+      "published": "2026-11-20T17:01:45Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "summary": "Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "source": "Google Blog",
+      "published": "2026-11-20T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If veri",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "published": "2026-11-20T16:34:13Z",
+      "category": "AI"
+    },
+    {
+      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and A",
+      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+      "source": "The Verge",
+      "published": "2026-11-20T16:22:15Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T16:16:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T16:11:21Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. F",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+      "source": "The Verge",
+      "published": "2026-11-20T16:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Don’t Bring Jensen Back",
+      "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea.",
+      "url": "https://www.wired.com/story/dont-bring-jensen-back/",
+      "source": "Wired",
+      "published": "2026-11-20T16:00:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T15:46:07Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T14:52:51Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T14:15:21Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T14:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T13:35:45Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "summary": "Pura fragrances are 20 percent off, and diffusers are 30 percent off through December 6. Here’s what I’d buy after having tested three generations of Pura devices.",
+      "url": "https://www.wired.com/story/pura-black-friday-2026/",
+      "source": "Wired",
+      "published": "2026-11-20T13:30:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T13:25:00Z",
+      "category": "Chips"
+    },
+    {
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T13:21:11Z",
+      "category": "Chips"
+    },
+    {
+      "title": "The Download: inside the quest to make our minds immortal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scienti",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-20T13:10:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
+      "summary": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young.",
+      "url": "https://www.wired.com/story/best-birdfy-gifts-2026/",
+      "source": "Wired",
+      "published": "2026-11-20T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/",
+      "source": "Wired",
+      "published": "2026-11-20T13:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "summary": "Gambling? We're just swapping contracts!",
+      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T12:30:29Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "summary": "Your support for Ars matters more now than ever.",
+      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T12:15:36Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
+      "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
+      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "source": "Wired",
+      "published": "2026-11-20T12:15:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T12:00:43Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
+      "summary": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from.",
+      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "source": "Wired",
+      "published": "2026-11-20T12:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "source": "Wired",
+      "published": "2026-11-20T12:00:00Z",
+      "category": "Big Tech"
+    },
     {
       "title": "The 36 Best REI Holiday Sale Outdoor Deals (2026)",
       "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
@@ -96,7 +432,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "The U.S. national cyber director is stepping down",
+      "title": "The US national cyber director is stepping down",
       "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
       "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
       "source": "TechCrunch",
@@ -110,6 +446,14 @@
       "source": "Wired",
       "published": "2026-11-20T07:00:00Z",
       "category": "Startups"
+    },
+    {
+      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
+      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-20T06:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "Vimeo Promo Codes: 40% Off This November 2026",
@@ -139,14 +483,6 @@
       "title": "HBO Max Promo Code: 50% Off | November 2026",
       "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
       "url": "https://www.wired.com/story/max-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-20T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
-      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-      "url": "https://www.wired.com/story/adorama-promo-code/",
       "source": "Wired",
       "published": "2026-11-20T06:00:00Z",
       "category": "Big Tech"
@@ -192,17 +528,17 @@
       "category": "Big Tech"
     },
     {
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "title": "iRobot Promo Code: 15% Off",
+      "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+      "url": "https://www.wired.com/story/irobot-promo-code/",
       "source": "Wired",
       "published": "2026-11-20T06:00:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "iRobot Promo Code: 15% Off",
-      "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "url": "https://www.wired.com/story/irobot-promo-code/",
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "source": "Wired",
       "published": "2026-11-20T06:00:00Z",
       "category": "Big Tech"
@@ -552,22 +888,6 @@
       "category": "Chips"
     },
     {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "source": "Wired",
-      "published": "2026-11-19T17:00:00Z",
-      "category": "AI"
-    },
-    {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
@@ -592,14 +912,6 @@
       "category": "AI"
     },
     {
-      "title": "Build strategic A/B tests to grow your ad performance.",
-      "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-      "source": "Google Blog",
-      "published": "2026-11-19T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Genie 4 is now available on the Gemini API.",
       "summary": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
@@ -608,10 +920,34 @@
       "category": "AI"
     },
     {
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "source": "Google Blog",
+      "published": "2026-11-19T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Let Gemini tackle repetitive chores on your Mac",
       "summary": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
       "source": "Google Blog",
+      "published": "2026-11-19T17:00:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T17:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "source": "Wired",
       "published": "2026-11-19T17:00:00Z",
       "category": "AI"
     },
@@ -1320,9 +1656,9 @@
       "category": "Big Tech"
     },
     {
-      "title": "Genie 4 is now available",
-      "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "title": "Las Vegas race week brings big rewards to Google Play",
+      "summary": "Unlock digital perks via our rewards case and Use tab, or join The Auction by Google Play live in Las Vegas.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
       "source": "Google Blog",
       "published": "2026-11-18T18:00:00Z",
       "category": "Big Tech"
@@ -1336,9 +1672,9 @@
       "category": "Big Tech"
     },
     {
-      "title": "Las Vegas race week brings big rewards to Google Play",
-      "summary": "Unlock digital perks via our rewards case and Use tab, or join The Auction by Google Play live in Las Vegas.",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
+      "title": "Genie 4 is now available",
+      "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
       "source": "Google Blog",
       "published": "2026-11-18T18:00:00Z",
       "category": "Big Tech"
@@ -1400,20 +1736,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "source": "Google Blog",
-      "published": "2026-11-18T17:00:00Z",
-      "category": "AI"
-    },
-    {
       "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
       "summary": "Take advantage of the holiday peak with YouTube’s November Demand Gen Drop.",
       "url": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
       "source": "Google Blog",
       "published": "2026-11-18T17:00:00Z",
       "category": "Big Tech"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google Blog",
+      "published": "2026-11-18T17:00:00Z",
+      "category": "AI"
     },
     {
       "title": "Introducing Stitch Loop: A new way to build and evolve products",
@@ -2901,342 +3237,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
       "source": "The Verge",
       "published": "2026-11-16T20:46:01Z",
-      "category": "AI"
-    },
-    {
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think th",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "source": "The Verge",
-      "published": "2026-11-16T20:41:28Z",
-      "category": "AI"
-    },
-    {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T20:37:47Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. H",
-      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-      "source": "The Verge",
-      "published": "2026-11-16T20:36:14Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack",
-      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "source": "The Verge",
-      "published": "2026-11-16T20:29:37Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-      "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T20:27:58Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a seri",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "source": "The Verge",
-      "published": "2026-11-16T20:27:58Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T20:07:13Z",
-      "category": "AI"
-    },
-    {
-      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their globa",
-      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-16T20:00:37Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
-      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/",
-      "source": "Wired",
-      "published": "2026-11-16T20:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T19:54:21Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T19:53:00Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy,",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-16T19:50:47Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
-      "summary": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new features will put the German automaker in competition with Tesla, whi",
-      "url": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
-      "source": "The Verge",
-      "published": "2026-11-16T19:49:12Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "When will humans actually fly on Starship?",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T19:46:08Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T19:36:25Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T19:26:55Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will r",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "source": "The Verge",
-      "published": "2026-11-16T19:24:40Z",
-      "category": "Chips"
-    },
-    {
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect ab",
-      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "source": "The Verge",
-      "published": "2026-11-16T19:23:45Z",
-      "category": "AI"
-    },
-    {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T19:12:02Z",
-      "category": "Chips"
-    },
-    {
-      "title": "US moves to cut China’s remote access to AI chips",
-      "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T19:10:09Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Island is a new screen-time app that turns staying off your phone into a game",
-      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T18:54:18Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Regional voices are rolling out in the Gemini app.",
-      "summary": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
-      "source": "Google Blog",
-      "published": "2026-11-16T18:45:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "The open-source movement wants Jensen Huang back",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it liste",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-16T18:38:47Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Outpace automated cyber threats with security built for nonstop defense.",
-      "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-16T18:30:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday a",
-      "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-      "source": "The Verge",
-      "published": "2026-11-16T18:29:55Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
-      "summary": "Originally launching only with Touch ID, Apple’s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it’s likely not as secure as Face ID.",
-      "url": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
-      "source": "Wired",
-      "published": "2026-11-16T18:26:26Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
-      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T18:21:14Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T18:11:10Z",
-      "category": "Chips"
-    },
-    {
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:36:43Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:10:00Z",
-      "category": "Startups"
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:02:43Z",
-      "category": "AI"
-    },
-    {
-      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-      "summary": "New Google AdMob AI tools help app developers fix setups fast, protect brand safety, and automate monetization in code.",
-      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
-      "source": "Google Blog",
-      "published": "2026-11-16T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
-      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
-      "source": "Wired",
-      "published": "2026-11-16T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-      "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is foc",
-      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-16T16:48:01Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "AO3 Is Back. This Is Not a Drill",
-      "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
-      "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
-      "source": "Wired",
-      "published": "2026-11-16T16:40:33Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back-",
-      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-      "source": "The Verge",
-      "published": "2026-11-16T16:39:36Z",
-      "category": "Chips"
-    },
-    {
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-      "summary": "International authorities will announce US lost its elimination status Tuesday.",
-      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T16:39:29Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Jensen Huang Is Gone. Now What?",
-      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-      "source": "Wired",
-      "published": "2026-11-16T16:12:51Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
-      "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
-      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T16:06:30Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migra",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-16T16:04:28Z",
       "category": "AI"
     }
   ]
