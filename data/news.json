@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T20:34:18.260269Z",
+  "updated_at": "2026-11-20T02:18:29.262199Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -39,6 +39,166 @@
     }
   ],
   "items": [
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:56:01Z",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:43:50Z",
+      "category": "AI"
+    },
+    {
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:26:03Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T23:37:56Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+      "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
+      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "source": "Wired",
+      "published": "2026-11-19T23:12:17Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T22:33:26Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engi",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
+      "published": "2026-11-19T22:31:41Z",
+      "category": "AI"
+    },
+    {
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "source": "Ars Technica",
+      "published": "2026-11-19T22:16:37Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Best Amazon Black Friday Deals (2026)",
+      "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "source": "Wired",
+      "published": "2026-11-19T22:02:12Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from i",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge",
+      "published": "2026-11-19T21:59:35Z",
+      "category": "Chips"
+    },
+    {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:58:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "What’s With All These Outages?",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "source": "Wired",
+      "published": "2026-11-19T21:57:01Z",
+      "category": "Chips"
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:42:31Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "summary": "Uber is testing the new program in three U.S. cities.",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T21:33:24Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+      "source": "Ars Technica",
+      "published": "2026-11-19T21:19:12Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Reb",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "source": "The Verge",
+      "published": "2026-11-19T21:12:06Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Best Hatch Black Friday Deals (2026)",
+      "summary": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
+      "url": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
+      "source": "Wired",
+      "published": "2026-11-19T20:44:44Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "source": "Wired",
+      "published": "2026-11-19T20:34:17Z",
+      "category": "Chips"
+    },
+    {
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "source": "Google Blog",
+      "published": "2026-11-19T20:30:00Z",
+      "category": "AI"
+    },
+    {
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "source": "Ars Technica",
+      "published": "2026-11-19T20:29:46Z",
+      "category": "Chips"
+    },
     {
       "title": "Meta’s Muse Charm might cost $300",
       "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm",
@@ -105,7 +265,7 @@
     },
     {
       "title": "You can now buy a Steam Machine without getting on a waitlist",
-      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: you can now purchase a 512GB Steam Machine without getting on",
+      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on",
       "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
       "source": "The Verge",
       "published": "2026-11-19T19:33:22Z",
@@ -120,7 +280,7 @@
       "category": "Big Tech"
     },
     {
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch",
@@ -456,17 +616,17 @@
       "category": "Chips"
     },
     {
-      "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
-      "summary": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation.",
-      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+      "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
+      "summary": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
+      "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
       "source": "Wired",
       "published": "2026-11-19T10:30:00Z",
       "category": "Big Tech"
     },
     {
-      "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
-      "summary": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
-      "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+      "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
+      "summary": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation.",
+      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
       "source": "Wired",
       "published": "2026-11-19T10:30:00Z",
       "category": "Big Tech"
@@ -1526,14 +1686,6 @@
       "source": "TechCrunch",
       "published": "2026-11-17T23:04:35Z",
       "category": "Chips"
-    },
-    {
-      "title": "Best Early Amazon Black Friday Deals (2026)",
-      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
-      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "source": "Wired",
-      "published": "2026-11-17T22:57:54Z",
-      "category": "Big Tech"
     },
     {
       "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
@@ -3086,158 +3238,6 @@
       "source": "Google Blog",
       "published": "2026-11-16T14:00:00Z",
       "category": "Big Tech"
-    },
-    {
-      "title": "4 ways Search can help with your holiday plans",
-      "summary": "Here are four ways Search can help tackle your seasonal to-do list.",
-      "url": "https://blog.google/products-and-platforms/products/search/holiday-prep-search-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-16T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Navigate holiday traffic and crowds with Google Maps trends",
-      "summary": "See the best and worst times to drive, run errands, and visit trending holiday spots with 2026 Google Maps data",
-      "url": "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-16T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
-      "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
-      "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-      "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and autho",
-      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-      "source": "The Verge",
-      "published": "2026-11-16T14:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Google Maps can now create trip itineraries for you",
-      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you",
-      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-      "source": "The Verge",
-      "published": "2026-11-16T14:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In th",
-      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-16T13:10:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and a",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "AI"
-    },
-    {
-      "title": "After dodging death, battery startup Our Next Energy is now going public",
-      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?",
-      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "Startups"
-    },
-    {
-      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
-      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
-      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Nvidia scandal isn’t slowing down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-i",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "source": "The Verge",
-      "published": "2026-11-16T13:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T12:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
-      "summary": "There are more digital photo frames than ever these days. After years of testing, these are the ones I’d buy.",
-      "url": "https://www.wired.com/story/best-digital-photo-frames/",
-      "source": "Wired",
-      "published": "2026-11-16T12:01:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
-      "summary": "For those who have lived under armed drones, the sound overhead can be distressing.",
-      "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T12:00:57Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
-      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
-      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Amazon’s Zoox robotaxis are now available via Uber",
-      "summary": "Uber may be breaking up with Waymo, but it's also gaining a new robotaxi BFF: Amazon. Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox's purpose-built, bidirectional robotaxis. It's a first for both companies: the first time Uber ",
-      "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
-      "source": "The Verge",
-      "published": "2026-11-16T12:00:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
-      "source": "Wired",
-      "published": "2026-11-16T11:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
-      "source": "Wired",
-      "published": "2026-11-16T11:30:00Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "source": "Wired",
-      "published": "2026-11-16T11:00:00Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
-      "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from C",
-      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
-      "source": "The Verge",
-      "published": "2026-11-16T11:00:00Z",
-      "category": "Chips"
     }
   ]
 }
