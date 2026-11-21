@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:15:21.178567Z",
+  "updated_at": "2026-11-21T02:12:14.799009Z",
   "sources": [
     {
       "name": "TechCrunch",
@@ -40,6 +40,86 @@
   ],
   "items": [
     {
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "source": "Wired",
+      "published": "2026-11-20T23:24:02Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T22:28:24Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T22:16:51Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T21:58:29Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T21:47:10Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T20:59:08Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T20:58:29Z",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would al",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "source": "The Verge",
+      "published": "2026-11-20T20:43:52Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T20:41:17Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T20:26:33Z",
+      "category": "Big Tech"
+    },
+    {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
@@ -65,14 +145,14 @@
     },
     {
       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a ",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter ",
       "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
       "source": "The Verge",
       "published": "2026-11-20T19:35:06Z",
       "category": "Big Tech"
     },
     {
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
@@ -224,20 +304,20 @@
       "category": "Big Tech"
     },
     {
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. F",
-      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-      "source": "The Verge",
-      "published": "2026-11-20T16:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Don’t Bring Jensen Back",
       "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea.",
       "url": "https://www.wired.com/story/dont-bring-jensen-back/",
       "source": "Wired",
       "published": "2026-11-20T16:00:00Z",
       "category": "Chips"
+    },
+    {
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. F",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+      "source": "The Verge",
+      "published": "2026-11-20T16:00:00Z",
+      "category": "Big Tech"
     },
     {
       "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
@@ -448,14 +528,6 @@
       "category": "Startups"
     },
     {
-      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
-      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-      "url": "https://www.wired.com/story/adorama-promo-code/",
-      "source": "Wired",
-      "published": "2026-11-20T06:00:00Z",
-      "category": "Big Tech"
-    },
-    {
       "title": "Vimeo Promo Codes: 40% Off This November 2026",
       "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
       "url": "https://www.wired.com/story/vimeo-promo-code/",
@@ -483,6 +555,14 @@
       "title": "HBO Max Promo Code: 50% Off | November 2026",
       "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
       "url": "https://www.wired.com/story/max-promo-code/",
+      "source": "Wired",
+      "published": "2026-11-20T06:00:00Z",
+      "category": "Big Tech"
+    },
+    {
+      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
+      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
       "source": "Wired",
       "published": "2026-11-20T06:00:00Z",
       "category": "Big Tech"
@@ -3158,86 +3238,6 @@
       "source": "NVIDIA Blog",
       "published": "2026-11-16T23:00:05Z",
       "category": "Chips"
-    },
-    {
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T22:58:27Z",
-      "category": "Startups"
-    },
-    {
-      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier toda",
-      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-      "source": "The Verge",
-      "published": "2026-11-16T22:54:59Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T22:12:31Z",
-      "category": "Cybersecurity"
-    },
-    {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T22:03:02Z",
-      "category": "Chips"
-    },
-    {
-      "title": "Three small failures combined to take down Microsoft 365",
-      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T21:56:39Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
-      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
-      "url": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
-      "source": "Wired",
-      "published": "2026-11-16T21:45:45Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohack",
-      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-      "source": "The Verge",
-      "published": "2026-11-16T21:41:57Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-      "source": "TechCrunch",
-      "published": "2026-11-16T21:01:02Z",
-      "category": "AI"
-    },
-    {
-      "title": "Hyperscale data centers use 2% of US electricity",
-      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T20:52:10Z",
-      "category": "Big Tech"
-    },
-    {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly develop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source": "The Verge",
-      "published": "2026-11-16T20:46:01Z",
-      "category": "AI"
     }
   ]
 }
